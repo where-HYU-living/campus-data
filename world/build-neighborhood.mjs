@@ -114,7 +114,11 @@ export function buildNeighborhood(site, ngii, osm, appearance) {
   const target = findTarget(buildings, site.x, site.z);
   if (target) {
     target.isTarget = true; target.name = target.name || site.name;
-    if (appearance) target.look = lookFromAppearance(appearance);
+    if (appearance) {
+      target.look = lookFromAppearance(appearance);
+      const fl = appearance.형태?.층수_눈대중;
+      if (!target.floors && fl > 0) { target.floors = fl; target.h = buildingHeight({ floors: fl }); } // 수치지도에 층수가 없을 때만 사진 눈대중 사용
+    }
   }
   for (const b of buildings) { const xs = b.pts.map((p) => p[0]), zs = b.pts.map((p) => p[1]); b.bb = [Math.min(...xs), Math.min(...zs), Math.max(...xs), Math.max(...zs)]; }
   const lamps = makeLamps(roadsIn, osmLamps.filter(([x, z]) => x > bounds.minX && x < bounds.maxX && z > bounds.minZ && z < bounds.maxZ), buildings, bounds);
