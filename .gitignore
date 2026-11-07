@@ -8,3 +8,6 @@ node_modules/
 .venv/
 __pycache__/
 .DS_Store
+
+# 동네 로드뷰 사진(내부 참고용, 재배포 안 함)
+data/neighborhoods/*/photos/

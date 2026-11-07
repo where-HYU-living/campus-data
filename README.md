@@ -19,6 +19,24 @@ python3 -m venv .venv && .venv/bin/pip install pyshp pyproj numpy scipy   # 수�
 npm run world      # world.json 만들기
 ```
 
+## 동네(집 주변) 월드 — 매물 7·청년안심주택 단지 5 (총 12곳)
+
+평면도가 있는 집 주변을 캠퍼스처럼 걸어 볼 수 있게 `neighborhoods/sites.json` 의 12곳마다 700×700m 조각 하나를 만든다 (원점은 캠퍼스와 같은 사자상 → 좌표 변환 그대로).
+
+| 단계 | 명령 | 결과 |
+|---|---|---|
+| 1. 수치지도 → 지형·건물 윤곽 | `.venv/bin/python campus/tools/ngii-neighborhoods.py` | `data/neighborhoods/<id>/ngii.json` (DEM step 4m, 건물 윤곽·층수) |
+| 2. OSM → 길·녹지·가로등·이름 | `node campus/tools/fetch-neighborhood.mjs [id…] [--force]` | `data/neighborhoods/<id>/osm.json` |
+| 3. 대상 건물 로드뷰 사진 | `node campus/tools/roadview-sites.mjs [id…]` | `data/neighborhoods/<id>/photos/` (git 제외) |
+| 4. 사진을 보고 외관 조사 | `campus/tools/APPEARANCE-BRIEF.md` 형식으로 | `neighborhoods/<id>/appearance.json` |
+| 5. 조각 만들기 | `node world/build-neighborhood.mjs [id…]` | `../frontend/public/neighborhoods/<id>.json` |
+
+- 수치지도 도엽: 37705072·37705073 (SHP, `data/terrain/ngii/map5000/`), 37705062·37705063 (DXF 1:1000 통합본, `data/terrain/ngii/dxf/`). 층수는 SHP 도엽에만 있고 DXF 도엽(청량리역 퀸즈W 일대)은 OSM 태그·면적으로 추정한다.
+- 건물 높이: 층수(수치지도) > OSM `height`/`building:levels` > 면적 추정. 건축물대장·브이월드 속성은 쓰지 않는다(캠퍼스에서 속성이 다른 도형에 붙는 문제가 확인됐고, 동네는 외곽 윤곽만 있으면 충분).
+- 조각 밖으로 걸친 건물은 넣지 않는다(반쪽 건물 금지). 가로등은 OSM 노드 + 길가 28m 간격.
+- 출처 표기: OSM(ODbL) · 국토지리정보원 수치지도(재배포 금지 — 원본·파생 `ngii.json` 은 git 제외, 조각 JSON 은 가공 결과) · 카카오맵 로드뷰(팀 내부 참고용).
+- 테스트: `node --test test/`
+
 ## 데이터·API 출처
 
 ### API (키 사용 — `campus/tools/.env`)
