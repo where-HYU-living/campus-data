@@ -1,0 +1,831 @@
+{
+  "asOf": "2026-11-07",
+  "campus": "서울",
+  "colleges": [
+    {
+      "college": "공과대학",
+      "departments": [
+        {
+          "name": "건축학부",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "건축공학부",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "건설환경공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "도시공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "자원환경공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "융합전자공학부",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "전기·생체공학부",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "신소재공학부",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "화학공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "생명공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "유기나노공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "에너지공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "기계공학부",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "원자력공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "산업공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+        },
+        {
+          "name": "컴퓨터소프트웨어학부",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "소프트웨어 행정팀이 공업센터본관 503호. 수업 건물은 별도 확인하지 않음."
+        },
+        {
+          "name": "데이터사이언스학부",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "소프트웨어 행정팀이 공업센터본관 503호. 수업 건물은 별도 확인하지 않음."
+        },
+        {
+          "name": "미래자동차공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "소프트웨어 행정팀이 공업센터본관 503호. 수업 건물은 별도 확인하지 않음."
+        },
+        {
+          "name": "정보시스템학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://is.hanyang.ac.kr/",
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "학과 공식 사이트(is.hanyang.ac.kr)와 학사안내 표 둘 다 학부 사무실이 공업센터본관 503호(02-2220-3133). 대학원 사무실은 퓨전테크센터(208) 503호로 다르게 안내되지만 학부 기준은 206. 편제상 공과대학 소속, 상경계열로 모집."
+        },
+        {
+          "name": "반도체공학과",
+          "buildings": [
+            "206"
+          ],
+          "confidence": "guess",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치가 학사안내 표에 명시되지 않음(전화 02-2220-1081만 기재). 공과대학 행정팀 건물로 추정. SK하이닉스 채용조건형 계약학과(정원 외)."
+        }
+      ]
+    },
+    {
+      "college": "의과대학",
+      "departments": [
+        {
+          "name": "의예과",
+          "buildings": [
+            "604"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "의과대학 행정팀 제1의학관 301호."
+        }
+      ]
+    },
+    {
+      "college": "인문과학대학",
+      "departments": [
+        {
+          "name": "국어국문학과",
+          "buildings": [
+            "508"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "인문과학대학 행정팀 인문관 316호."
+        },
+        {
+          "name": "중어중문학과",
+          "buildings": [
+            "508"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "인문과학대학 행정팀 인문관 316호."
+        },
+        {
+          "name": "영어영문학과",
+          "buildings": [
+            "508"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "인문과학대학 행정팀 인문관 316호."
+        },
+        {
+          "name": "독어독문학과",
+          "buildings": [
+            "508"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "인문과학대학 행정팀 인문관 316호."
+        },
+        {
+          "name": "사학과",
+          "buildings": [
+            "508"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "인문과학대학 행정팀 인문관 316호."
+        },
+        {
+          "name": "철학과",
+          "buildings": [
+            "508"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "인문과학대학 행정팀 인문관 316호."
+        }
+      ]
+    },
+    {
+      "college": "사회과학대학",
+      "departments": [
+        {
+          "name": "정치외교학과",
+          "buildings": [
+            "504"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "사회과학대학 행정팀 사회과학관 310호."
+        },
+        {
+          "name": "사회학과",
+          "buildings": [
+            "504"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "사회과학대학 행정팀 사회과학관 310호."
+        },
+        {
+          "name": "미디어커뮤니케이션학과",
+          "buildings": [
+            "504"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "사회과학대학 행정팀 사회과학관 310호."
+        },
+        {
+          "name": "관광학부",
+          "buildings": [
+            "504"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "사회과학대학 행정팀 사회과학관 310호."
+        }
+      ]
+    },
+    {
+      "college": "자연과학대학",
+      "departments": [
+        {
+          "name": "수학과",
+          "buildings": [
+            "507"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음)."
+        },
+        {
+          "name": "물리학과",
+          "buildings": [
+            "507"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음)."
+        },
+        {
+          "name": "화학과",
+          "buildings": [
+            "507"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음)."
+        },
+        {
+          "name": "생명과학과",
+          "buildings": [
+            "507"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음)."
+        }
+      ]
+    },
+    {
+      "college": "정책과학대학",
+      "departments": [
+        {
+          "name": "정책학과",
+          "buildings": [
+            "705"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "정책과학대학 행정팀 융합교육관 409호."
+        },
+        {
+          "name": "행정학과",
+          "buildings": [
+            "705"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "정책과학대학 행정팀 융합교육관 409호."
+        }
+      ]
+    },
+    {
+      "college": "경제금융대학",
+      "departments": [
+        {
+          "name": "경제금융학부",
+          "buildings": [
+            "410"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 '경제금융관 206호' = 410 경제금융대학·법학학술정보관으로 매핑."
+        }
+      ]
+    },
+    {
+      "college": "경영대학",
+      "departments": [
+        {
+          "name": "경영학부",
+          "buildings": [
+            "706"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치 '경영관'(호실 없음)."
+        },
+        {
+          "name": "파이낸스경영학과",
+          "buildings": [
+            "706"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치 '경영관'(호실 없음)."
+        }
+      ]
+    },
+    {
+      "college": "사범대학",
+      "departments": [
+        {
+          "name": "교육학과",
+          "buildings": [
+            "505"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+        },
+        {
+          "name": "교육공학과",
+          "buildings": [
+            "505"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+        },
+        {
+          "name": "국어교육과",
+          "buildings": [
+            "505"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+        },
+        {
+          "name": "영어교육과",
+          "buildings": [
+            "505"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+        },
+        {
+          "name": "수학교육과",
+          "buildings": [
+            "505"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+        },
+        {
+          "name": "응용미술교육과",
+          "buildings": [
+            "505"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+        }
+      ]
+    },
+    {
+      "college": "생활과학대학",
+      "departments": [
+        {
+          "name": "의류학과",
+          "buildings": [
+            "401"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "생활과학대학 행정팀 생활과학관 107호."
+        },
+        {
+          "name": "식품영양학과",
+          "buildings": [
+            "401"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "생활과학대학 행정팀 생활과학관 107호."
+        },
+        {
+          "name": "실내건축디자인학과",
+          "buildings": [
+            "401"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "생활과학대학 행정팀 생활과학관 107호."
+        }
+      ]
+    },
+    {
+      "college": "음악대학",
+      "departments": [
+        {
+          "name": "성악과",
+          "buildings": [
+            "402"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+        },
+        {
+          "name": "작곡과",
+          "buildings": [
+            "402"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+        },
+        {
+          "name": "피아노과",
+          "buildings": [
+            "402"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+        },
+        {
+          "name": "관현악과",
+          "buildings": [
+            "402"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+        },
+        {
+          "name": "국악과",
+          "buildings": [
+            "402"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+        }
+      ]
+    },
+    {
+      "college": "예술체육대학",
+      "departments": [
+        {
+          "name": "스포츠산업과학부",
+          "buildings": [
+            "306"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "예술체육대학 행정팀이 올림픽체육관(306)에 있음 (학사안내 표). 수업·연습 건물은 확인하지 않음."
+        },
+        {
+          "name": "연극영화학과",
+          "buildings": [
+            "306"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "예술체육대학 행정팀이 올림픽체육관(306)에 있음 (학사안내 표). 수업·연습 건물은 확인하지 않음."
+        },
+        {
+          "name": "무용학과",
+          "buildings": [
+            "306"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "예술체육대학 행정팀이 올림픽체육관(306)에 있음 (학사안내 표). 수업·연습 건물은 확인하지 않음."
+        }
+      ]
+    },
+    {
+      "college": "국제대학",
+      "departments": [
+        {
+          "name": "국제학부",
+          "buildings": [
+            "108"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "국제대학 행정팀 국제관 553호. 학사안내 표에는 체육학과·스포츠산업학과로 기재되나 2027 모집요강 현행 명칭 스포츠산업과학부(스포츠매니지먼트/스포츠사이언스전공)를 사용."
+        }
+      ]
+    },
+    {
+      "college": "간호대학",
+      "departments": [
+        {
+          "name": "간호학과",
+          "buildings": [
+            "617"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 '미래교육관 205호'를 617 간호미래교육관으로 매핑(명칭이 약간 다름, 동일 건물로 판단). 야간 간호학과(야)는 별도 표기 생략."
+        }
+      ]
+    },
+    {
+      "college": "기술혁신대학",
+      "departments": [
+        {
+          "name": "산업융합학부",
+          "buildings": [
+            "211"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 제2공학관 110호. 경영공학전공·정보공학전공. 정원 외 모집."
+        }
+      ]
+    },
+    {
+      "college": "한양YK인터칼리지",
+      "departments": [
+        {
+          "name": "한양인터칼리지학부",
+          "buildings": [
+            "410"
+          ],
+          "confidence": "confirmed",
+          "sources": [
+            "https://academic.hanyang.ac.kr/-38",
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+          ],
+          "notes": "행정팀 '경제금융관 506호'를 410으로 매핑. 2학년부터 전공 선택."
+        }
+      ]
+    }
+  ],
+  "unmapped": [
+    {
+      "name": "체육학과",
+      "reason": "학사안내 표에 있으나 2027 모집요강에 모집단위 없음(스포츠산업과학부로 개편된 것으로 보이나 확인 못함). 제외."
+    },
+    {
+      "name": "의학과",
+      "reason": "학사안내 표에 의예과와 함께 기재되나 모집단위는 의예과뿐. 별도 항목 생략."
+    }
+  ],
+  "locationBasis": "buildings 는 학과 행정팀(사무실) 건물 기준이다. 수업·연구실 건물과 다를 수 있다(특히 공과대학: 행정팀은 공업센터본관 206, 수업은 제1·2공학관 등에서도 이뤄진다).",
+  "sourceNote": "출처: 한양대 서울 학사안내 행정팀 안내표(academic.hanyang.ac.kr/-38), 2027학년도 수시모집요강(모집단위·학과명). hanyang.ac.kr 본 사이트는 403으로 읽지 못함."
+}
