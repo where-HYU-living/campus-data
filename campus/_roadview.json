@@ -1,0 +1,1227 @@
+[
+ {
+  "no": "L01",
+  "name": "사자상",
+  "views": [
+   {
+    "panoid": "1212786735",
+    "url": "https://map.kakao.com/?panoid=1212786735&pan=279.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 49
+   },
+   {
+    "panoid": "1212786827",
+    "url": "https://map.kakao.com/?panoid=1212786827&pan=38.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 37
+   }
+  ]
+ },
+ {
+  "no": "L02",
+  "name": "한양대역 출구",
+  "views": [
+   {
+    "panoid": "1212423229",
+    "url": "https://map.kakao.com/?panoid=1212423229&pan=111.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 20
+   },
+   {
+    "panoid": "1212424948",
+    "url": "https://map.kakao.com/?panoid=1212424948&pan=164.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 125
+   }
+  ]
+ },
+ {
+  "no": "101",
+  "name": "역사관(구본관)",
+  "views": [
+   {
+    "panoid": "1212786735",
+    "url": "https://map.kakao.com/?panoid=1212786735&pan=252.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 17
+   },
+   {
+    "panoid": "1212786748",
+    "url": "https://map.kakao.com/?panoid=1212786748&pan=218.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 42
+   }
+  ]
+ },
+ {
+  "no": "102",
+  "name": "본관",
+  "views": [
+   {
+    "panoid": "1212786748",
+    "url": "https://map.kakao.com/?panoid=1212786748&pan=313.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 52
+   }
+  ]
+ },
+ {
+  "no": "104",
+  "name": "애지문(한양대역 2번 출구)",
+  "views": [
+   {
+    "panoid": "1212786827",
+    "url": "https://map.kakao.com/?panoid=1212786827&pan=313.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 26
+   },
+   {
+    "panoid": "1212786871",
+    "url": "https://map.kakao.com/?panoid=1212786871&pan=331.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 41
+   }
+  ]
+ },
+ {
+  "no": "105",
+  "name": "학생복지관(한양플라자)",
+  "views": [
+   {
+    "panoid": "1212786827",
+    "url": "https://map.kakao.com/?panoid=1212786827&pan=351.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 72
+   },
+   {
+    "panoid": "1212424942",
+    "url": "https://map.kakao.com/?panoid=1212424942&pan=106.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 64
+   }
+  ]
+ },
+ {
+  "no": "106",
+  "name": "우체국",
+  "views": [
+   {
+    "panoid": "1212424945",
+    "url": "https://map.kakao.com/?panoid=1212424945&pan=76.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 60
+   },
+   {
+    "panoid": "1212786776",
+    "url": "https://map.kakao.com/?panoid=1212786776&pan=267.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 93
+   }
+  ]
+ },
+ {
+  "no": "107",
+  "name": "학생회관",
+  "views": [
+   {
+    "panoid": "1198751498",
+    "url": "https://map.kakao.com/?panoid=1198751498&pan=193.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 75
+   },
+   {
+    "panoid": "1198751475",
+    "url": "https://map.kakao.com/?panoid=1198751475&pan=233.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 84
+   }
+  ]
+ },
+ {
+  "no": "108",
+  "name": "국제관",
+  "views": [
+   {
+    "panoid": "1212786859",
+    "url": "https://map.kakao.com/?panoid=1212786859&pan=163.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 35
+   },
+   {
+    "panoid": "1212786676",
+    "url": "https://map.kakao.com/?panoid=1212786676&pan=347.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 45
+   }
+  ]
+ },
+ {
+  "no": "109",
+  "name": "박물관",
+  "views": [
+   {
+    "panoid": "1212786688",
+    "url": "https://map.kakao.com/?panoid=1212786688&pan=55.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 19
+   },
+   {
+    "panoid": "1212786630",
+    "url": "https://map.kakao.com/?panoid=1212786630&pan=242.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 35
+   }
+  ]
+ },
+ {
+  "no": "201",
+  "name": "재성토목관",
+  "views": [
+   {
+    "panoid": "1212786667",
+    "url": "https://map.kakao.com/?panoid=1212786667&pan=219.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 36
+   },
+   {
+    "panoid": "1212762675",
+    "url": "https://map.kakao.com/?panoid=1212762675&pan=4.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 53
+   }
+  ]
+ },
+ {
+  "no": "202",
+  "name": "건축관",
+  "views": [
+   {
+    "panoid": "1212762681",
+    "url": "https://map.kakao.com/?panoid=1212762681&pan=351.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 28
+   },
+   {
+    "panoid": "1212786667",
+    "url": "https://map.kakao.com/?panoid=1212786667&pan=180.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 53
+   }
+  ]
+ },
+ {
+  "no": "203",
+  "name": "과학기술관",
+  "views": [
+   {
+    "panoid": "1212762685",
+    "url": "https://map.kakao.com/?panoid=1212762685&pan=6.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 33
+   },
+   {
+    "panoid": "1212779459",
+    "url": "https://map.kakao.com/?panoid=1212779459&pan=321.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 45
+   }
+  ]
+ },
+ {
+  "no": "204",
+  "name": "신소재공학관",
+  "views": [
+   {
+    "panoid": "1212786891",
+    "url": "https://map.kakao.com/?panoid=1212786891&pan=161.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 37
+   },
+   {
+    "panoid": "1212776590",
+    "url": "https://map.kakao.com/?panoid=1212776590&pan=312.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 74
+   }
+  ]
+ },
+ {
+  "no": "206",
+  "name": "공업센터본관",
+  "views": [
+   {
+    "panoid": "1212786947",
+    "url": "https://map.kakao.com/?panoid=1212786947&pan=109.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 30
+   },
+   {
+    "panoid": "1212786574",
+    "url": "https://map.kakao.com/?panoid=1212786574&pan=211.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 51
+   }
+  ]
+ },
+ {
+  "no": "207",
+  "name": "공업센터별관",
+  "views": [
+   {
+    "panoid": "1212786570",
+    "url": "https://map.kakao.com/?panoid=1212786570&pan=179.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 48
+   },
+   {
+    "panoid": "1212776600",
+    "url": "https://map.kakao.com/?panoid=1212776600&pan=326.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 60
+   }
+  ]
+ },
+ {
+  "no": "208",
+  "name": "퓨전테크센터(FTC)",
+  "views": [
+   {
+    "panoid": "1212776600",
+    "url": "https://map.kakao.com/?panoid=1212776600&pan=37.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 41
+   },
+   {
+    "panoid": "1212786555",
+    "url": "https://map.kakao.com/?panoid=1212786555&pan=160.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 59
+   }
+  ]
+ },
+ {
+  "no": "209",
+  "name": "노천극장",
+  "views": [
+   {
+    "panoid": "1212786626",
+    "url": "https://map.kakao.com/?panoid=1212786626&pan=48.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 25
+   },
+   {
+    "panoid": "1212786610",
+    "url": "https://map.kakao.com/?panoid=1212786610&pan=320.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 30
+   }
+  ]
+ },
+ {
+  "no": "210",
+  "name": "정몽구미래자동차연구센터",
+  "views": [
+   {
+    "panoid": "1212787443",
+    "url": "https://map.kakao.com/?panoid=1212787443&pan=258.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 83
+   },
+   {
+    "panoid": "1212786757",
+    "url": "https://map.kakao.com/?panoid=1212786757&pan=138.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 45
+   }
+  ]
+ },
+ {
+  "no": "211",
+  "name": "제2공학관",
+  "views": [
+   {
+    "panoid": "1212786591",
+    "url": "https://map.kakao.com/?panoid=1212786591&pan=16.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 58
+   },
+   {
+    "panoid": "1212786990",
+    "url": "https://map.kakao.com/?panoid=1212786990&pan=250.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 23
+   }
+  ]
+ },
+ {
+  "no": "212",
+  "name": "제1공학관",
+  "views": [
+   {
+    "panoid": "1212786769",
+    "url": "https://map.kakao.com/?panoid=1212786769&pan=118.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 60
+   },
+   {
+    "panoid": "1212787440",
+    "url": "https://map.kakao.com/?panoid=1212787440&pan=278.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 59
+   }
+  ]
+ },
+ {
+  "no": "213",
+  "name": "구자겸기계관",
+  "views": [
+   {
+    "panoid": "1212786520",
+    "url": "https://map.kakao.com/?panoid=1212786520&pan=103.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 26
+   },
+   {
+    "panoid": "1212776613",
+    "url": "https://map.kakao.com/?panoid=1212776613&pan=326.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 28
+   }
+  ]
+ },
+ {
+  "no": "301",
+  "name": "대운동장",
+  "views": [
+   {
+    "panoid": "1212786536",
+    "url": "https://map.kakao.com/?panoid=1212786536&pan=14.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 57
+   },
+   {
+    "panoid": "1212786520",
+    "url": "https://map.kakao.com/?panoid=1212786520&pan=339.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 69
+   }
+  ]
+ },
+ {
+  "no": "304",
+  "name": "산학기술관",
+  "views": [
+   {
+    "panoid": "1212787022",
+    "url": "https://map.kakao.com/?panoid=1212787022&pan=154.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 43
+   },
+   {
+    "panoid": "1212787000",
+    "url": "https://map.kakao.com/?panoid=1212787000&pan=60.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 31
+   }
+  ]
+ },
+ {
+  "no": "305",
+  "name": "IT/BT관",
+  "views": [
+   {
+    "panoid": "1212787022",
+    "url": "https://map.kakao.com/?panoid=1212787022&pan=95.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 49
+   },
+   {
+    "panoid": "1212786258",
+    "url": "https://map.kakao.com/?panoid=1212786258&pan=255.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 31
+   }
+  ]
+ },
+ {
+  "no": "306",
+  "name": "올림픽체육관",
+  "views": [
+   {
+    "panoid": "1212787039",
+    "url": "https://map.kakao.com/?panoid=1212787039&pan=69.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 89
+   },
+   {
+    "panoid": "1212786393",
+    "url": "https://map.kakao.com/?panoid=1212786393&pan=132.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 67
+   }
+  ]
+ },
+ {
+  "no": "401",
+  "name": "생활과학대학",
+  "views": [
+   {
+    "panoid": "1212787449",
+    "url": "https://map.kakao.com/?panoid=1212787449&pan=27.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 41
+   },
+   {
+    "panoid": "1212787455",
+    "url": "https://map.kakao.com/?panoid=1212787455&pan=110.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 34
+   }
+  ]
+ },
+ {
+  "no": "402",
+  "name": "제1음악관",
+  "views": [
+   {
+    "panoid": "1212787377",
+    "url": "https://map.kakao.com/?panoid=1212787377&pan=193.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 44
+   },
+   {
+    "panoid": "1212787449",
+    "url": "https://map.kakao.com/?panoid=1212787449&pan=71.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 86
+   }
+  ]
+ },
+ {
+  "no": "403",
+  "name": "제2음악관",
+  "views": [
+   {
+    "panoid": "1212787382",
+    "url": "https://map.kakao.com/?panoid=1212787382&pan=207.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 39
+   },
+   {
+    "panoid": "1212787449",
+    "url": "https://map.kakao.com/?panoid=1212787449&pan=59.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 76
+   }
+  ]
+ },
+ {
+  "no": "405",
+  "name": "백남음악관",
+  "views": [
+   {
+    "panoid": "1212787449",
+    "url": "https://map.kakao.com/?panoid=1212787449&pan=93.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 50
+   },
+   {
+    "panoid": "1212786996",
+    "url": "https://map.kakao.com/?panoid=1212786996&pan=46.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 71
+   }
+  ]
+ },
+ {
+  "no": "406",
+  "name": "학군단",
+  "views": [
+   {
+    "panoid": "1212787446",
+    "url": "https://map.kakao.com/?panoid=1212787446&pan=140.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 24
+   },
+   {
+    "panoid": "1212786996",
+    "url": "https://map.kakao.com/?panoid=1212786996&pan=13.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 31
+   }
+  ]
+ },
+ {
+  "no": "407",
+  "name": "제1법학관",
+  "views": [
+   {
+    "panoid": "1212787364",
+    "url": "https://map.kakao.com/?panoid=1212787364&pan=176.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 45
+   },
+   {
+    "panoid": "1212786444",
+    "url": "https://map.kakao.com/?panoid=1212786444&pan=316.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 74
+   }
+  ]
+ },
+ {
+  "no": "408",
+  "name": "제2법학관",
+  "views": [
+   {
+    "panoid": "1212786444",
+    "url": "https://map.kakao.com/?panoid=1212786444&pan=297.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 62
+   },
+   {
+    "panoid": "1212787360",
+    "url": "https://map.kakao.com/?panoid=1212787360&pan=189.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 72
+   }
+  ]
+ },
+ {
+  "no": "409",
+  "name": "제3법학관",
+  "views": [
+   {
+    "panoid": "1212786437",
+    "url": "https://map.kakao.com/?panoid=1212786437&pan=313.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 26
+   },
+   {
+    "panoid": "1212786441",
+    "url": "https://map.kakao.com/?panoid=1212786441&pan=334.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 29
+   }
+  ]
+ },
+ {
+  "no": "410",
+  "name": "경제금융대학·법학학술정보관",
+  "views": [
+   {
+    "panoid": "1212787364",
+    "url": "https://map.kakao.com/?panoid=1212787364&pan=124.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 59
+   },
+   {
+    "panoid": "1212787279",
+    "url": "https://map.kakao.com/?panoid=1212787279&pan=191.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 49
+   }
+  ]
+ },
+ {
+  "no": "501",
+  "name": "백남학술정보관",
+  "views": [
+   {
+    "panoid": "1212787475",
+    "url": "https://map.kakao.com/?panoid=1212787475&pan=281.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 49
+   },
+   {
+    "panoid": "1212787478",
+    "url": "https://map.kakao.com/?panoid=1212787478&pan=270.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 44
+   }
+  ]
+ },
+ {
+  "no": "503",
+  "name": "사자가 군것질 할 때",
+  "views": [
+   {
+    "panoid": "1212787430",
+    "url": "https://map.kakao.com/?panoid=1212787430&pan=252.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 25
+   },
+   {
+    "panoid": "1212787440",
+    "url": "https://map.kakao.com/?panoid=1212787440&pan=307.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 35
+   }
+  ]
+ },
+ {
+  "no": "504",
+  "name": "사회과학관·공공정책대학원",
+  "views": [
+   {
+    "panoid": "1212786784",
+    "url": "https://map.kakao.com/?panoid=1212786784&pan=290.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 37
+   },
+   {
+    "panoid": "1212786796",
+    "url": "https://map.kakao.com/?panoid=1212786796&pan=251.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 47
+   }
+  ]
+ },
+ {
+  "no": "505",
+  "name": "사범대학 본관",
+  "views": [
+   {
+    "panoid": "1198751473",
+    "url": "https://map.kakao.com/?panoid=1198751473&pan=33.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 25
+   },
+   {
+    "panoid": "1212787508",
+    "url": "https://map.kakao.com/?panoid=1212787508&pan=264.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 43
+   }
+  ]
+ },
+ {
+  "no": "506",
+  "name": "사범대학 별관",
+  "views": [
+   {
+    "panoid": "1198751483",
+    "url": "https://map.kakao.com/?panoid=1198751483&pan=39.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 17
+   },
+   {
+    "panoid": "1212787535",
+    "url": "https://map.kakao.com/?panoid=1212787535&pan=209.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 57
+   }
+  ]
+ },
+ {
+  "no": "507",
+  "name": "자연과학대학",
+  "views": [
+   {
+    "panoid": "1212787885",
+    "url": "https://map.kakao.com/?panoid=1212787885&pan=121.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 79
+   },
+   {
+    "panoid": "1198751489",
+    "url": "https://map.kakao.com/?panoid=1198751489&pan=6.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 38
+   }
+  ]
+ },
+ {
+  "no": "508",
+  "name": "인문관",
+  "views": [
+   {
+    "panoid": "1198751494",
+    "url": "https://map.kakao.com/?panoid=1198751494&pan=290.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 54
+   },
+   {
+    "panoid": "1212787885",
+    "url": "https://map.kakao.com/?panoid=1212787885&pan=180.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 70
+   }
+  ]
+ },
+ {
+  "no": "604",
+  "name": "제1의학관",
+  "views": [
+   {
+    "panoid": "1212788007",
+    "url": "https://map.kakao.com/?panoid=1212788007&pan=52.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 54
+   }
+  ]
+ },
+ {
+  "no": "605",
+  "name": "제2의학관",
+  "views": [
+   {
+    "panoid": "1212787979",
+    "url": "https://map.kakao.com/?panoid=1212787979&pan=30.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 48
+   },
+   {
+    "panoid": "1212787947",
+    "url": "https://map.kakao.com/?panoid=1212787947&pan=151.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 41
+   }
+  ]
+ },
+ {
+  "no": "606",
+  "name": "의과대학본관",
+  "views": [
+   {
+    "panoid": "1212787927",
+    "url": "https://map.kakao.com/?panoid=1212787927&pan=153.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 64
+   },
+   {
+    "panoid": "1212787987",
+    "url": "https://map.kakao.com/?panoid=1212787987&pan=57.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 93
+   }
+  ]
+ },
+ {
+  "no": "607",
+  "name": "동문회관",
+  "views": [
+   {
+    "panoid": "1212789063",
+    "url": "https://map.kakao.com/?panoid=1212789063&pan=246.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 57
+   },
+   {
+    "panoid": "1212787951",
+    "url": "https://map.kakao.com/?panoid=1212787951&pan=301.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 38
+   }
+  ]
+ },
+ {
+  "no": "609",
+  "name": "병원서관(국제병원,종합검진센터,장례식장)",
+  "views": [
+   {
+    "panoid": "1212787677",
+    "url": "https://map.kakao.com/?panoid=1212787677&pan=232.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 24
+   },
+   {
+    "panoid": "1212787693",
+    "url": "https://map.kakao.com/?panoid=1212787693&pan=334.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 38
+   }
+  ]
+ },
+ {
+  "no": "610",
+  "name": "병원본관",
+  "views": [
+   {
+    "panoid": "1212787651",
+    "url": "https://map.kakao.com/?panoid=1212787651&pan=139.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 43
+   },
+   {
+    "panoid": "1212787636",
+    "url": "https://map.kakao.com/?panoid=1212787636&pan=209.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 41
+   }
+  ]
+ },
+ {
+  "no": "611",
+  "name": "권역응급의료센터",
+  "views": [
+   {
+    "panoid": "1212787612",
+    "url": "https://map.kakao.com/?panoid=1212787612&pan=217.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 26
+   },
+   {
+    "panoid": "1212787845",
+    "url": "https://map.kakao.com/?panoid=1212787845&pan=326.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 39
+   }
+  ]
+ },
+ {
+  "no": "614",
+  "name": "병원동관(류마티스병원)·신한플라자",
+  "views": [
+   {
+    "panoid": "1212787609",
+    "url": "https://map.kakao.com/?panoid=1212787609&pan=17.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 49
+   },
+   {
+    "panoid": "1212787630",
+    "url": "https://map.kakao.com/?panoid=1212787630&pan=134.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 32
+   }
+  ]
+ },
+ {
+  "no": "617",
+  "name": "간호미래교육관",
+  "views": [
+   {
+    "panoid": "1212787558",
+    "url": "https://map.kakao.com/?panoid=1212787558&pan=114.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 31
+   }
+  ]
+ },
+ {
+  "no": "618",
+  "name": "의대 계단강의동",
+  "views": [
+   {
+    "panoid": "1212787582",
+    "url": "https://map.kakao.com/?panoid=1212787582&pan=62.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 54
+   },
+   {
+    "panoid": "1184046982",
+    "url": "https://map.kakao.com/?panoid=1184046982&pan=187.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 59
+   }
+  ]
+ },
+ {
+  "no": "619",
+  "name": "의생명융합연구센터",
+  "views": [
+   {
+    "panoid": "1184046982",
+    "url": "https://map.kakao.com/?panoid=1184046982&pan=153.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 17
+   },
+   {
+    "panoid": "1198754276",
+    "url": "https://map.kakao.com/?panoid=1198754276&pan=209.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 39
+   }
+  ]
+ },
+ {
+  "no": "701",
+  "name": "한양종합기술연구원(HIT)·코맥스 스타트업타운",
+  "views": [
+   {
+    "panoid": "1212787398",
+    "url": "https://map.kakao.com/?panoid=1212787398&pan=347.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 78
+   }
+  ]
+ },
+ {
+  "no": "702",
+  "name": "한양사이버대학교 1관",
+  "views": []
+ },
+ {
+  "no": "703",
+  "name": "한양사이버대학교 2관",
+  "views": []
+ },
+ {
+  "no": "705",
+  "name": "융합교육관",
+  "views": [
+   {
+    "panoid": "1212787348",
+    "url": "https://map.kakao.com/?panoid=1212787348&pan=290.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 27
+   },
+   {
+    "panoid": "1212787189",
+    "url": "https://map.kakao.com/?panoid=1212787189&pan=177.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 44
+   }
+  ]
+ },
+ {
+  "no": "706",
+  "name": "경영관",
+  "views": [
+   {
+    "panoid": "1212787344",
+    "url": "https://map.kakao.com/?panoid=1212787344&pan=44.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 41
+   },
+   {
+    "panoid": "1212787143",
+    "url": "https://map.kakao.com/?panoid=1212787143&pan=224.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 68
+   }
+  ]
+ },
+ {
+  "no": "707",
+  "name": "행원파크",
+  "views": [
+   {
+    "panoid": "1212787323",
+    "url": "https://map.kakao.com/?panoid=1212787323&pan=64.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 42
+   },
+   {
+    "panoid": "1212787344",
+    "url": "https://map.kakao.com/?panoid=1212787344&pan=116.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 64
+   }
+  ]
+ },
+ {
+  "no": "801",
+  "name": "제1학생생활관",
+  "views": [
+   {
+    "panoid": "1212787193",
+    "url": "https://map.kakao.com/?panoid=1212787193&pan=337.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 39
+   },
+   {
+    "panoid": "1028807275",
+    "url": "https://map.kakao.com/?panoid=1028807275&pan=267.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 52
+   }
+  ]
+ },
+ {
+  "no": "802",
+  "name": "제3학생생활관",
+  "views": [
+   {
+    "panoid": "1212789628",
+    "url": "https://map.kakao.com/?panoid=1212789628&pan=223.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 28
+   },
+   {
+    "panoid": "1198751433",
+    "url": "https://map.kakao.com/?panoid=1198751433&pan=155.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 32
+   }
+  ]
+ },
+ {
+  "no": "803",
+  "name": "제5학생생활관",
+  "views": [
+   {
+    "panoid": "1184046982",
+    "url": "https://map.kakao.com/?panoid=1184046982&pan=213.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 43
+   },
+   {
+    "panoid": "1212787582",
+    "url": "https://map.kakao.com/?panoid=1212787582&pan=33.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 58
+   }
+  ]
+ },
+ {
+  "no": "804",
+  "name": "제2학생생활관·한양테크노숙사",
+  "views": [
+   {
+    "panoid": "1212786246",
+    "url": "https://map.kakao.com/?panoid=1212786246&pan=110.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 51
+   },
+   {
+    "panoid": "1198749995",
+    "url": "https://map.kakao.com/?panoid=1198749995&pan=258.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 38
+   }
+  ]
+ },
+ {
+  "no": "805",
+  "name": "개나리관",
+  "views": [
+   {
+    "panoid": "1212786242",
+    "url": "https://map.kakao.com/?panoid=1212786242&pan=56.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 46
+   },
+   {
+    "panoid": "1198749986",
+    "url": "https://map.kakao.com/?panoid=1198749986&pan=266.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 34
+   }
+  ]
+ },
+ {
+  "no": "806",
+  "name": "한누리관",
+  "views": [
+   {
+    "panoid": "1212786234",
+    "url": "https://map.kakao.com/?panoid=1212786234&pan=81.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 14
+   },
+   {
+    "panoid": "1212786160",
+    "url": "https://map.kakao.com/?panoid=1212786160&pan=8.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 35
+   }
+  ]
+ },
+ {
+  "no": "807",
+  "name": "게스트하우스",
+  "views": [
+   {
+    "panoid": "1212789446",
+    "url": "https://map.kakao.com/?panoid=1212789446&pan=79.6&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 35
+   },
+   {
+    "panoid": "1212788780",
+    "url": "https://map.kakao.com/?panoid=1212788780&pan=161.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 51
+   }
+  ]
+ },
+ {
+  "no": "809",
+  "name": "제6학생생활관",
+  "views": [
+   {
+    "panoid": "1170539559",
+    "url": "https://map.kakao.com/?panoid=1170539559&pan=18.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 219
+   },
+   {
+    "panoid": "1212788932",
+    "url": "https://map.kakao.com/?panoid=1212788932&pan=30.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 219
+   }
+  ]
+ },
+ {
+  "no": "810",
+  "name": "제7학생생활관",
+  "views": [
+   {
+    "panoid": "1170539559",
+    "url": "https://map.kakao.com/?panoid=1170539559&pan=27.0&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 119
+   },
+   {
+    "panoid": "1212788885",
+    "url": "https://map.kakao.com/?panoid=1212788885&pan=353.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 124
+   }
+  ]
+ },
+ {
+  "no": "901",
+  "name": "한양여자대학교 본관",
+  "views": [
+   {
+    "panoid": "1212786176",
+    "url": "https://map.kakao.com/?panoid=1212786176&pan=146.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 31
+   },
+   {
+    "panoid": "1212786197",
+    "url": "https://map.kakao.com/?panoid=1212786197&pan=84.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 57
+   }
+  ]
+ },
+ {
+  "no": "902",
+  "name": "한양여자대학교 디자인관",
+  "views": [
+   {
+    "panoid": "1198750029",
+    "url": "https://map.kakao.com/?panoid=1198750029&pan=290.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 33
+   },
+   {
+    "panoid": "1212786127",
+    "url": "https://map.kakao.com/?panoid=1212786127&pan=182.7&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 44
+   }
+  ]
+ },
+ {
+  "no": "903",
+  "name": "한양여자대학교 도서관",
+  "views": [
+   {
+    "panoid": "1198750038",
+    "url": "https://map.kakao.com/?panoid=1198750038&pan=215.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 47
+   },
+   {
+    "panoid": "1198750056",
+    "url": "https://map.kakao.com/?panoid=1198750056&pan=292.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 48
+   }
+  ]
+ },
+ {
+  "no": "904",
+  "name": "행원스퀘어",
+  "views": [
+   {
+    "panoid": "1212787117",
+    "url": "https://map.kakao.com/?panoid=1212787117&pan=67.8&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 36
+   },
+   {
+    "panoid": "1198750029",
+    "url": "https://map.kakao.com/?panoid=1198750029&pan=250.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 91
+   }
+  ]
+ },
+ {
+  "no": "905",
+  "name": "한양초등학교",
+  "views": [
+   {
+    "panoid": "1212786358",
+    "url": "https://map.kakao.com/?panoid=1212786358&pan=354.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 43
+   },
+   {
+    "panoid": "1212787082",
+    "url": "https://map.kakao.com/?panoid=1212787082&pan=88.5&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 49
+   }
+  ]
+ },
+ {
+  "no": "906",
+  "name": "한양여자대학교 교수회관",
+  "views": [
+   {
+    "panoid": "1212787101",
+    "url": "https://map.kakao.com/?panoid=1212787101&pan=208.3&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 29
+   },
+   {
+    "panoid": "1212787078",
+    "url": "https://map.kakao.com/?panoid=1212787078&pan=311.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 46
+   }
+  ]
+ },
+ {
+  "no": "907",
+  "name": "한양여자대학교 정보문화관",
+  "views": [
+   {
+    "panoid": "1212787125",
+    "url": "https://map.kakao.com/?panoid=1212787125&pan=199.2&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 25
+   },
+   {
+    "panoid": "1212787105",
+    "url": "https://map.kakao.com/?panoid=1212787105&pan=304.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 36
+   }
+  ]
+ },
+ {
+  "no": "908",
+  "name": "한양여자대학교 식품영양관",
+  "views": [
+   {
+    "panoid": "1212786206",
+    "url": "https://map.kakao.com/?panoid=1212786206&pan=32.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 33
+   },
+   {
+    "panoid": "1212786180",
+    "url": "https://map.kakao.com/?panoid=1212786180&pan=254.4&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 31
+   }
+  ]
+ },
+ {
+  "no": "909",
+  "name": "한양여자대학교 유아교육관",
+  "views": [
+   {
+    "panoid": "1212786226",
+    "url": "https://map.kakao.com/?panoid=1212786226&pan=297.1&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 13
+   },
+   {
+    "panoid": "1212786176",
+    "url": "https://map.kakao.com/?panoid=1212786176&pan=13.9&tilt=-8&zoom=0&map_type=TYPE_MAP&map_attribute=ROADVIEW",
+    "dist": 40
+   }
+  ]
+ },
+ {
+  "no": "N08",
+  "name": "토건관",
+  "views": []
+ },
+ {
+  "no": "N10",
+  "name": "사근동기숙사",
+  "views": []
+ },
+ {
+  "no": "N11",
+  "name": "연구지원센터",
+  "views": []
+ },
+ {
+  "no": "N12",
+  "name": "대학원",
+  "views": []
+ },
+ {
+  "no": "N13",
+  "name": "제1교육관(행정자치대학원)",
+  "views": []
+ },
+ {
+  "no": "N14",
+  "name": "제2교육관",
+  "views": []
+ },
+ {
+  "no": "N15",
+  "name": "사회대도서관",
+  "views": []
+ }
+]

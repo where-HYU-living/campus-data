@@ -1,0 +1,10 @@
+# 비밀 키
+campus/tools/.env
+.env
+# 국토지리정보원 수치지도 원본·파생 (재배포 금지)
+data/terrain/ngii/
+# 환경
+node_modules/
+.venv/
+__pycache__/
+.DS_Store

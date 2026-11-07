@@ -1,0 +1,16 @@
+{
+  "name": "campus-data",
+  "private": true,
+  "type": "module",
+  "description": "한양대 서울캠퍼스 건물 자료실 + 3D 월드 데이터 만들기",
+  "scripts": {
+    "world": "node world/build-world.mjs",
+    "site": "node campus/tools/build-site.mjs",
+    "profiles": "node campus/tools/build-profiles.mjs",
+    "ngii": ".venv/bin/python campus/tools/ngii-to-json.py"
+  },
+  "dependencies": {
+    "playwright-core": "^1.56.1",
+    "pngjs": "^7.0.0"
+  }
+}

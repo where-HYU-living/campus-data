@@ -1,0 +1,42 @@
+{
+ "no": "N11",
+ "name": "연구지원센터",
+ "en": null,
+ "folder": "N11-연구지원센터",
+ "sources": {
+  "official": {
+   "번호": "N11",
+   "이름": "연구지원센터",
+   "기준": "건축물대장에만 있음"
+  },
+  "osm": null,
+  "ledger": {
+   "연결": "sure",
+   "대표대장": "연구지원센타",
+   "지상층": 7,
+   "지하층": 2,
+   "높이m": 27.9,
+   "높이추정": false,
+   "구조": "철근콘크리트구조",
+   "지붕": "(철근)콘크리트",
+   "연면적합계": 14767,
+   "사용승인일": "2000-07-15",
+   "층별기록수": 10
+  },
+  "vworld_bldginfo": null,
+  "vworld_spbd": null,
+  "roadview": null,
+  "kakao_place": null,
+  "site": null,
+  "ngii": null,
+  "appearance": null,
+  "photos_cc": null
+ },
+ "best": {
+  "지상층": 7,
+  "지상층출처": "건축물대장",
+  "높이m": 27.9,
+  "준공": "2000-07-15",
+  "바닥면적m2": null
+ }
+}

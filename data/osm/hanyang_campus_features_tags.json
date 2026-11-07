@@ -1,0 +1,7281 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-07T04:41:13Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1979127135,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1979127159,
+  "tags": {
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1979127234,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1979137835,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 1979137836,
+  "tags": {
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1979137851,
+  "tags": {
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1979137858,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1979273867,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 1979273931,
+  "tags": {
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1979274010,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 1979274016,
+  "tags": {
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1979295272,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 1979295341,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 1979295490,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 1979309593,
+  "tags": {
+    "barrier": "toll_booth"
+  }
+},
+{
+  "type": "node",
+  "id": 1979318091,
+  "tags": {
+    "barrier": "lift_gate",
+    "locked": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1979325222,
+  "tags": {
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1979334169,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1979334184,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1979334196,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1979334202,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1979347704,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1980630414,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1980630447,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 1980633104,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1980839506,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1980839546,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1980839614,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1980983998,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 1980984032,
+  "tags": {
+    "barrier": "lift_gate"
+  }
+},
+{
+  "type": "node",
+  "id": 1980984033,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1980984056,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 1980984091,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 1980984097,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1980994056,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 1981058749,
+  "tags": {
+    "description": "한양대역 1번 출구",
+    "description:en": "Hanyang Univ. Station gate 1",
+    "description:ja": "1番 出口",
+    "entrance": "yes",
+    "railway": "subway_entrance",
+    "ref": "1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1981094884,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 1981262641,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 1981345269,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 2313127314,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 3928108726,
+  "tags": {
+    "barrier": "bollard"
+  }
+},
+{
+  "type": "node",
+  "id": 4113795002,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822589,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822591,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822592,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822593,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822594,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822595,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822596,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822597,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822598,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822599,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822600,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822601,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822602,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822603,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822604,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822605,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822606,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822607,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822608,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822609,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822610,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822611,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822613,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822614,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822615,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822616,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822617,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822618,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822619,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822620,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822621,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822622,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822623,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822624,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822625,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822626,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822628,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822630,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822632,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822633,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113822634,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113826305,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842589,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842591,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842592,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842593,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842594,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842595,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842596,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842597,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842598,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842599,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842600,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842601,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842602,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842604,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842605,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842606,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842607,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842608,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842609,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842610,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842611,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842612,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4113842613,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113860199,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113860202,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113860204,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4113873892,
+  "tags": {
+    "barrier": "gate",
+    "foot": "yes",
+    "motor_vehicle": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4119943291,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4627814353,
+  "tags": {
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 4627929648,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 4628044346,
+  "tags": {
+    "entrance": "main"
+  }
+},
+{
+  "type": "node",
+  "id": 5740365153,
+  "tags": {
+    "entrance": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5769729726,
+  "tags": {
+    "entrance": "yes",
+    "highway": "elevator",
+    "level": "1;-1;-2",
+    "ref": "2;5",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7613972187,
+  "tags": {
+    "entrance": "yes",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 7613972190,
+  "tags": {
+    "entrance": "yes",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 7613972191,
+  "tags": {
+    "entrance": "yes",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 7613972192,
+  "tags": {
+    "entrance": "yes",
+    "ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 11700636999,
+  "tags": {
+    "building": "entrance",
+    "entrance": "service"
+  }
+},
+{
+  "type": "node",
+  "id": 11700637001,
+  "tags": {
+    "building": "entrance",
+    "entrance": "main"
+  }
+},
+{
+  "type": "way",
+  "id": 26271799,
+  "tags": {
+    "bicycle": "designated",
+    "foot": "designated",
+    "highway": "cycleway",
+    "lit": "yes",
+    "name": "중랑천서자전거길",
+    "name:en": "Jungnangcheonseojajeongeo-gil",
+    "name:ja": "中浪川 自転車道路",
+    "name:ko": "중랑천서자전거길",
+    "name:ko-Latn": "Jungnangcheonseojajeongeogil",
+    "oneway": "no",
+    "segregated": "yes",
+    "surface": "asphalt",
+    "width": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 175357619,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "description": "보물 제1738호 서울 살곶이 다리",
+    "highway": "footway",
+    "historic": "bridge",
+    "layer": "1",
+    "lit": "no",
+    "name": "살곶이다리(전곡교)",
+    "name:en": "Salgoji Bridge",
+    "name:ko": "살곶이다리(전곡교)",
+    "name:ko-Latn": "Salgotidari(jeongokgyo)",
+    "oneway": "no",
+    "surface": "stone",
+    "width": "5"
+  }
+},
+{
+  "type": "way",
+  "id": 175357623,
+  "tags": {
+    "highway": "primary",
+    "maxheight": "5.7",
+    "name": "왕십리로",
+    "name:en": "Wangsimni-ro",
+    "name:ja": "往十里路",
+    "name:ko": "왕십리로",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 187157339,
+  "tags": {
+    "highway": "service",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187157342,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187157346,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187157352,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187157354,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187157356,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187157358,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187157360,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187157363,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187157364,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 187157366,
+  "tags": {
+    "highway": "service",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187157368,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187161227,
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "성동구",
+    "addr:housenumber": "206",
+    "addr:postcode": "04763",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "train_station",
+    "operator": "서울교통공사",
+    "subway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187161229,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187161231,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187161232,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187161238,
+  "tags": {
+    "highway": "service",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187161239,
+  "tags": {
+    "bridge": "yes",
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway",
+    "layer": "1",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 187162275,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187162276,
+  "tags": {
+    "highway": "steps",
+    "incline": "down",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 187162277,
+  "tags": {
+    "addr:unit": "108",
+    "building": "university",
+    "building:levels": "7",
+    "name": "국제관",
+    "name:en": "International Building",
+    "name:ko": "국제관"
+  }
+},
+{
+  "type": "way",
+  "id": 187162278,
+  "tags": {
+    "building": "school",
+    "name": "토건관",
+    "name:ja": "土建館",
+    "name:ko": "토건관"
+  }
+},
+{
+  "type": "way",
+  "id": 187162486,
+  "tags": {
+    "addr:unit": "105",
+    "building": "school",
+    "name": "학생복지관",
+    "name:ko": "학생복지관"
+  }
+},
+{
+  "type": "way",
+  "id": 187178754,
+  "tags": {
+    "building": "school",
+    "height": "24",
+    "name": "사범대학 별관",
+    "name:en": "College of Education Annex",
+    "name:ko": "사범대학 별관",
+    "name:zh": "師範大學 別館"
+  }
+},
+{
+  "type": "way",
+  "id": 187178755,
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "name": "부속병원 제1주차동",
+    "name:en": "Hanyang University Medical Center Parking Lot Ⅰ",
+    "name:ko": "부속병원 제1주차동",
+    "name:zh": "漢陽大病院 第1駐車棟",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "way",
+  "id": 187178756,
+  "tags": {
+    "building": "school",
+    "height": "35",
+    "name": "자연과학관",
+    "name:en": "College of Natural Sciences",
+    "name:ja": "自然科学館",
+    "name:ko": "자연과학대학",
+    "name:zh": "自然科學館"
+  }
+},
+{
+  "type": "way",
+  "id": 187178757,
+  "tags": {
+    "building": "school",
+    "name": "사회과학관",
+    "name:ja": "社会科学館",
+    "name:ko": "사회과학관"
+  }
+},
+{
+  "type": "way",
+  "id": 187178758,
+  "tags": {
+    "amenity": "college",
+    "building": "school",
+    "name": "한양사이버대학교",
+    "name:ja": "漢陽 サイバー 大学校",
+    "name:ko": "한양사이버대학교",
+    "wikidata": "Q5651452"
+  }
+},
+{
+  "type": "way",
+  "id": 187178759,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187178760,
+  "tags": {
+    "building": "school",
+    "name": "공공정책대학",
+    "name:ko": "공공정책대학"
+  }
+},
+{
+  "type": "way",
+  "id": 187178761,
+  "tags": {
+    "building": "school",
+    "height": "24",
+    "name": "사범대학교 본관",
+    "name:ja": "師範大学校 本館",
+    "name:ko": "사범대학교 본관"
+  }
+},
+{
+  "type": "way",
+  "id": 187178762,
+  "tags": {
+    "addr:unit": "107",
+    "building": "school",
+    "name": "학생회관",
+    "name:en": "Student Union",
+    "name:ja": "学生 会館",
+    "name:ko": "학생회관",
+    "name:zh": "學生會館"
+  }
+},
+{
+  "type": "way",
+  "id": 187178764,
+  "tags": {
+    "building": "school",
+    "height": "22",
+    "name": "의과대학본관",
+    "name:ja": "医科大学本館",
+    "name:ko": "의과대학본관"
+  }
+},
+{
+  "type": "way",
+  "id": 187178765,
+  "tags": {
+    "building": "school",
+    "height": "22",
+    "name": "제1의학관",
+    "name:ja": "第1医学館",
+    "name:ko": "제1의학관"
+  }
+},
+{
+  "type": "way",
+  "id": 187178766,
+  "tags": {
+    "building": "school",
+    "height": "16.3",
+    "name": "제2의학관",
+    "name:ja": "第2医学館",
+    "name:ko": "제2의학관"
+  }
+},
+{
+  "type": "way",
+  "id": 187178767,
+  "tags": {
+    "building": "school",
+    "building:levels": "6",
+    "name": "한양종합기술연구원(HIT)",
+    "name:en": "Hanyang Institute of Technology",
+    "name:ja": "漢陽総合技術研究院",
+    "name:ko": "한양종합기술연구원(HIT)",
+    "name:zh": "HIT"
+  }
+},
+{
+  "type": "way",
+  "id": 187181232,
+  "tags": {
+    "addr:unit": "201",
+    "building": "school",
+    "building:levels": "8",
+    "name": "재성토목관",
+    "name:ko": "재성토목관",
+    "website": "civil.hanyang.ac.kr"
+  }
+},
+{
+  "type": "way",
+  "id": 187181233,
+  "tags": {
+    "addr:unit": "109",
+    "building": "yes",
+    "name": "박물관",
+    "name:en": "University Museum",
+    "name:ja": "博物館",
+    "name:ko": "박물관",
+    "name:zh": "博物館",
+    "official_name": "한양대학교 박물관",
+    "tourism": "museum"
+  }
+},
+{
+  "type": "way",
+  "id": 187181234,
+  "tags": {
+    "building": "school",
+    "name": "제3법학관",
+    "name:en": "College of Law Ⅲ",
+    "name:ja": "第3法学館",
+    "name:ko": "제3법학관",
+    "name:zh": "第3法學館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181235,
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "성동구",
+    "addr:housenumber": "200",
+    "addr:postcode": "04763",
+    "addr:street": "살곶이길",
+    "addr:subdistrict": "사근동",
+    "building": "school",
+    "name": "한양여대 디자인관",
+    "name:en": "Hanyang Women's College Plastic Art Center",
+    "name:ko": "한양여자대학교 디자인관",
+    "name:zh": "漢陽女大 造形館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181236,
+  "tags": {
+    "building": "school",
+    "name": "경영관",
+    "name:en": "Business Administration Building",
+    "name:ja": "経営館",
+    "name:ko": "경영관",
+    "name:zh": "經營館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181237,
+  "tags": {
+    "addr:housenumber": "H5",
+    "addr:unit": "212",
+    "building": "school",
+    "building:levels": "5",
+    "name": "제1공학관",
+    "name:ja": "第1工学館",
+    "name:ko": "제1공학관"
+  }
+},
+{
+  "type": "way",
+  "id": 187181239,
+  "tags": {
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 187181241,
+  "tags": {
+    "building": "school",
+    "name": "한양여대 본관",
+    "name:en": "Hanyang Women's College",
+    "name:ja": "漢陽女大 本館",
+    "name:ko": "한양여대 본관",
+    "name:zh": "漢陽女大 本館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181242,
+  "tags": {
+    "addr:housenumber": "H13",
+    "addr:unit": "206",
+    "building": "school",
+    "building:levels": "7",
+    "name": "공업센터",
+    "name:en": "Engineering Center",
+    "name:ja": "工業センター",
+    "name:ko": "공업센터",
+    "name:zh": "工業Center 本館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181243,
+  "tags": {
+    "building": "school",
+    "name": "백남음악관",
+    "name:en": "Paiknam Concert Hall",
+    "name:ja": "白南音楽館",
+    "name:ko": "백남음악관",
+    "name:zh": "白南音樂館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181244,
+  "tags": {
+    "building": "school",
+    "name": "제2법학관",
+    "name:en": "College of Law Ⅱ",
+    "name:ja": "第2法学館",
+    "name:ko": "제2법학관",
+    "name:zh": "第2法學館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181246,
+  "tags": {
+    "building": "university",
+    "name": "학군단",
+    "name:en": "R.O.T.C. Headquarters · University Press",
+    "name:ko": "학군단",
+    "name:zh": "學軍團·大學出版部"
+  }
+},
+{
+  "type": "way",
+  "id": 187181247,
+  "tags": {
+    "building": "school",
+    "name": "생활과학관",
+    "name:en": "College of Human Ecology",
+    "name:ja": "生活科学館",
+    "name:ko": "생활과학대학",
+    "name:zh": "生活科學館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181248,
+  "tags": {
+    "addr:unit": "306",
+    "building": "yes",
+    "leisure": "sports_hall",
+    "name": "올림픽체육관",
+    "name:en": "Olympic Gymnasium",
+    "name:ja": "オリンピック体育館",
+    "name:ko": "올림픽체육관",
+    "name:zh": "Olympic體育館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181249,
+  "tags": {
+    "building": "school",
+    "name": "경제금융관/법학학술정보관",
+    "name:en": "Business & Economics Building",
+    "name:ja": "経済金融館 / 法学学術情報館",
+    "name:ko": "경제금융관/법학학술정보관",
+    "name:zh": "商經館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181250,
+  "tags": {
+    "building": "school",
+    "name": "한양여대 교수회관",
+    "name:en": "Hanyang Women's College Faculty Research Building",
+    "name:ja": "漢陽女大 教授研究棟",
+    "name:ko": "한양여자대학교 교수회관",
+    "name:zh": "漢陽女大 敎授硏究棟"
+  }
+},
+{
+  "type": "way",
+  "id": 187181251,
+  "tags": {
+    "building": "school",
+    "name": "한양여대 정보문화관",
+    "name:en": "Hanyang Women's College Computer Science Center",
+    "name:ja": "漢陽女大 情報文化館",
+    "name:ko": "한양여자대학교 정보문화관",
+    "name:zh": "漢陽女大 電算館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181252,
+  "tags": {
+    "addr:housenumber": "H33",
+    "addr:unit": "207",
+    "building": "school",
+    "name": "공업센터 별관",
+    "name:en": "Engineering Center Annex",
+    "name:ja": "工業センター 別館",
+    "name:ko": "공업센터 별관",
+    "name:zh": "工業Center別館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181253,
+  "tags": {
+    "building": "school",
+    "name": "제1법학관",
+    "name:en": "College of Law Ⅰ",
+    "name:ja": "第1法学館",
+    "name:ko": "제1법학관",
+    "name:zh": "第1法學館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181254,
+  "tags": {
+    "addr:housenumber": "H46",
+    "addr:unit": "304",
+    "building": "school",
+    "building:levels": "7",
+    "name": "산학기술관",
+    "name:en": "R&D Building",
+    "name:ja": "産学技術館",
+    "name:ko": "산학기술관",
+    "name:zh": "产学技术馆"
+  }
+},
+{
+  "type": "way",
+  "id": 187181255,
+  "tags": {
+    "addr:housenumber": "H14",
+    "addr:unit": "204",
+    "building": "school",
+    "building:levels": "7",
+    "name": "신소재공학관",
+    "name:en": "Advanced Materials & Chemical Engineering Building",
+    "name:ja": "新素材工学館",
+    "name:ko": "신소재공학관",
+    "name:zh": "新素材工學館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181256,
+  "tags": {
+    "addr:unit": "305",
+    "building": "school",
+    "building:levels": "12",
+    "name": "IT/BT관",
+    "name:en": "IT/BT Building",
+    "name:ja": "IT/BT館",
+    "name:ko": "IT/BT관",
+    "name:zh": "IT/BT馆"
+  }
+},
+{
+  "type": "way",
+  "id": 187181257,
+  "tags": {
+    "addr:unit": "503",
+    "building": "yes",
+    "name": "사자가 군것질할 때",
+    "name:en": "Convenience Store at the Academic Information Center & Library",
+    "name:ko": "사자가 군것질할 때",
+    "name:zh": "學術情報館 便利店",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "way",
+  "id": 187181258,
+  "tags": {
+    "addr:housenumber": "H100",
+    "addr:unit": "208",
+    "building": "school",
+    "name": "퓨전테크센터",
+    "name:en": "Fusion Technology Center",
+    "name:ja": "フュージョンテクセンター",
+    "name:ko": "퓨전테크센터"
+  }
+},
+{
+  "type": "way",
+  "id": 187181260,
+  "tags": {
+    "building": "school",
+    "name": "한양여대 도서관",
+    "name:en": "Hanyang Women's College Library",
+    "name:ko": "한양여대 도서관",
+    "name:zh": "漢陽女大 圖書館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181261,
+  "tags": {
+    "addr:unit": "501",
+    "building": "university",
+    "building:levels": "5",
+    "name": "백남학술정보관",
+    "name:ja": "白南学術情報館",
+    "name:ko": "백남학술정보관"
+  }
+},
+{
+  "type": "way",
+  "id": 187181262,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187181263,
+  "tags": {
+    "addr:unit": "203",
+    "building": "school",
+    "name": "과학기술관",
+    "name:en": "Engineering Science & Technology Building",
+    "name:ja": "科学技術館",
+    "name:ko": "과학기술관",
+    "name:zh": "科學技術館"
+  }
+},
+{
+  "type": "way",
+  "id": 187181264,
+  "tags": {
+    "addr:housenumber": "H27",
+    "addr:unit": "211",
+    "building": "school",
+    "building:levels": "6",
+    "name": "제2공학관",
+    "name:en": "Engineering Building Ⅱ",
+    "name:ja": "第2工学館",
+    "name:ko": "제2공학관",
+    "name:zh": "第2工學館"
+  }
+},
+{
+  "type": "way",
+  "id": 187182895,
+  "tags": {
+    "building": "yes",
+    "height": "10",
+    "name": "부속병원 동관",
+    "name:en": "Hanyang University Medical Center East Wing",
+    "name:ja": "附属病院 東館",
+    "name:ko": "부속병원 동관",
+    "name:zh": "漢陽大病院 東館"
+  }
+},
+{
+  "type": "way",
+  "id": 187182896,
+  "tags": {
+    "building": "yes",
+    "name": "의대 계단강의동",
+    "name:en": "College of Medicine Lecture Hall",
+    "name:ja": "医大 階段講義棟",
+    "name:ko": "의대 계단강의동",
+    "name:zh": "醫大 階段講義棟"
+  }
+},
+{
+  "type": "way",
+  "id": 187182899,
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187182901,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187183861,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187184435,
+  "tags": {
+    "building": "yes",
+    "height": "28",
+    "name": "부속병원 서관",
+    "name:en": "Hanyang University Medical Center West Wing",
+    "name:ja": "附属病院 西館",
+    "name:ko": "부속병원 서관",
+    "name:zh": "漢陽大病院 西館"
+  }
+},
+{
+  "type": "way",
+  "id": 187184436,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187184437,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187184439,
+  "tags": {
+    "highway": "service",
+    "oneway": "yes",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 187184441,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187184707,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 187184708,
+  "tags": {
+    "highway": "service",
+    "oneway": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 187184710,
+  "tags": {
+    "highway": "living_street",
+    "service": "alley"
+  }
+},
+{
+  "type": "way",
+  "id": 187184712,
+  "tags": {
+    "highway": "service",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187184713,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 187185121,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 187185122,
+  "tags": {
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 187185123,
+  "tags": {
+    "addr:unit": "101",
+    "building": "school",
+    "name": "역사관",
+    "name:ko": "역사관"
+  }
+},
+{
+  "type": "way",
+  "id": 187185124,
+  "tags": {
+    "addr:unit": "102",
+    "building": "school",
+    "name": "본관",
+    "name:ja": "本館",
+    "name:ko": "본관"
+  }
+},
+{
+  "type": "way",
+  "id": 187185126,
+  "tags": {
+    "highway": "service",
+    "oneway": "yes",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 187354395,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187354396,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187354398,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187354400,
+  "tags": {
+    "building": "yes",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 187354408,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동10길",
+    "name:en": "Sageundong 10-gil",
+    "name:ko": "사근동10길"
+  }
+},
+{
+  "type": "way",
+  "id": 187354411,
+  "tags": {
+    "building": "yes",
+    "name": "유아교육관",
+    "name:en": "Childhood Education Center",
+    "name:ja": "幼児教育館",
+    "name:ko": "유아교육관",
+    "name:zh": "幼兒敎育館"
+  }
+},
+{
+  "type": "way",
+  "id": 187354412,
+  "tags": {
+    "building": "yes",
+    "name": "식품영양관",
+    "name:en": "Philology Hall",
+    "name:ja": "食品栄養館",
+    "name:ko": "식품영양관",
+    "name:zh": "語學館"
+  }
+},
+{
+  "type": "way",
+  "id": 187354685,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187354686,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187354689,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187354690,
+  "tags": {
+    "amenity": "parking",
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187354693,
+  "tags": {
+    "highway": "steps",
+    "name": "88계단",
+    "step_count": "85"
+  }
+},
+{
+  "type": "way",
+  "id": 187354696,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187354697,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187354699,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187354700,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187354701,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187354702,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 187354703,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187354704,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187354705,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 187354706,
+  "tags": {
+    "highway": "service",
+    "service": "alley"
+  }
+},
+{
+  "type": "way",
+  "id": 187378628,
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "성동구",
+    "addr:housenumber": "222",
+    "addr:postcode": "04763",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "사근동",
+    "addr:unit": "106",
+    "amenity": "post_office",
+    "building": "public",
+    "name": "서울한양대학교우체국",
+    "name:en": "Hanyang University Post Office",
+    "name:ja": "漢陽大学校郵便局",
+    "name:ko": "서울한양대학교우체국",
+    "name:ko-Latn": "Hanyangdaehakgyoucheguk"
+  }
+},
+{
+  "type": "way",
+  "id": 187378629,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187378630,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187378631,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187378632,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187378636,
+  "tags": {
+    "highway": "steps",
+    "name": "목월길"
+  }
+},
+{
+  "type": "way",
+  "id": 187378637,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187378638,
+  "tags": {
+    "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 187378639,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187378640,
+  "tags": {
+    "highway": "steps",
+    "name": "목월길"
+  }
+},
+{
+  "type": "way",
+  "id": 187378641,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187378642,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187378644,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187384174,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187384657,
+  "tags": {
+    "area": "yes",
+    "bicycle": "yes",
+    "embankment": "yes",
+    "highway": "pedestrian",
+    "horse": "unknown",
+    "motor_vehicle": "permissive",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 187395939,
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187395940,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187395941,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187395943,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187395944,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187395945,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187395946,
+  "tags": {
+    "bridge": "yes",
+    "highway": "corridor",
+    "indoor": "yes",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 187395947,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187395951,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187395952,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187395953,
+  "tags": {
+    "highway": "service",
+    "service": "alley"
+  }
+},
+{
+  "type": "way",
+  "id": 187395955,
+  "tags": {
+    "bridge": "yes",
+    "highway": "corridor",
+    "layer": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 187395956,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187395958,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187395960,
+  "tags": {
+    "access": "no",
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187395962,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187395963,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187395964,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187395965,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187396333,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187396334,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187396335,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187396336,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187397389,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187397390,
+  "tags": {
+    "building": "yes",
+    "name": "제3학생생활관",
+    "name:en": "Student Residence Hall Ⅲ",
+    "name:ja": "第3学生生活館",
+    "name:ko": "제3학생생활관",
+    "name:zh": "第3學生生活館"
+  }
+},
+{
+  "type": "way",
+  "id": 187397391,
+  "tags": {
+    "building": "yes",
+    "name": "제1학생생활관",
+    "name:en": "Student Residence Hall Ⅰ",
+    "name:ja": "第1学生生活館",
+    "name:ko": "제1학생생활관",
+    "name:zh": "第1學生生活館"
+  }
+},
+{
+  "type": "way",
+  "id": 187397392,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187397393,
+  "tags": {
+    "building": "yes",
+    "name": "제1학생생활관",
+    "name:en": "Student Residence Hall Ⅰ",
+    "name:ja": "第1学生生活館",
+    "name:ko": "제1학생생활관",
+    "name:zh": "第1學生生活館"
+  }
+},
+{
+  "type": "way",
+  "id": 187397394,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187401041,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187401042,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187401043,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187401045,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187401046,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187401047,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187401048,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187401049,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187401050,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187401051,
+  "tags": {
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 187401052,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187401765,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187401768,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187403474,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187405486,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187405487,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187405488,
+  "tags": {
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 187405489,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187405490,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187405869,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187405870,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187405871,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187408263,
+  "tags": {
+    "highway": "service",
+    "layer": "-1",
+    "service": "parking_aisle",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 187408270,
+  "tags": {
+    "highway": "service",
+    "layer": "-1",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 187409275,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187409277,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187409278,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187409280,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187409281,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187409282,
+  "tags": {
+    "landuse": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 187428390,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187436394,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187436396,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187436400,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187436402,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187436404,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187436405,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187436406,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187436408,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187436410,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187436412,
+  "tags": {
+    "leisure": "sports_centre",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "way",
+  "id": 187436414,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187436418,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 187436420,
+  "tags": {
+    "addr:unit": "104",
+    "building": "yes",
+    "name": "애지문",
+    "name:en": "Aejeemun",
+    "name:ko": "애지문",
+    "name:zh": "爱之门"
+  }
+},
+{
+  "type": "way",
+  "id": 187436425,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187436426,
+  "tags": {
+    "area": "yes",
+    "embankment": "yes",
+    "highway": "pedestrian",
+    "lit": "no",
+    "name": "한마당",
+    "name:ko": "한마당",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 187443867,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187443870,
+  "tags": {
+    "highway": "service",
+    "service": "alley"
+  }
+},
+{
+  "type": "way",
+  "id": 187443871,
+  "tags": {
+    "highway": "service",
+    "service": "alley"
+  }
+},
+{
+  "type": "way",
+  "id": 187443872,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187443874,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187443875,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 187443876,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 187443878,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187443880,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187443881,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187443882,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187443883,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 187595595,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187595596,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187595597,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187595598,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 187595599,
+  "tags": {
+    "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 187645691,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 187645692,
+  "tags": {
+    "building": "yes",
+    "height": "27",
+    "name": "동문회관",
+    "name:en": "Alumni Association Building",
+    "name:ko": "동문회관",
+    "name:zh": "同門會館"
+  }
+},
+{
+  "type": "way",
+  "id": 187645693,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187645694,
+  "tags": {
+    "highway": "residential",
+    "name": "마조로",
+    "name:en": "Majo-ro",
+    "name:ko": "마조로"
+  }
+},
+{
+  "type": "way",
+  "id": 187645695,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 187645696,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 187646030,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian",
+    "surface": "sand"
+  }
+},
+{
+  "type": "way",
+  "id": 187646032,
+  "tags": {
+    "leisure": "park"
+  }
+},
+{
+  "type": "way",
+  "id": 208552046,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 208552737,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 222338912,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 222338913,
+  "tags": {
+    "highway": "service",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 222338914,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 222338915,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 222338917,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 222338919,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 226903399,
+  "tags": {
+    "highway": "primary_link",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 226903432,
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "60",
+    "name": "살곶이길",
+    "name:en": "Salgoji-gil",
+    "name:ko": "살곶이길",
+    "name:ko-Latn": "Salgoji-gil",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 226966682,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동10길",
+    "name:en": "Sageundong 10-gil",
+    "name:ko": "사근동10길"
+  }
+},
+{
+  "type": "way",
+  "id": 226966686,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동8길",
+    "name:en": "Sageundong 8-gil",
+    "name:ko": "사근동8길"
+  }
+},
+{
+  "type": "way",
+  "id": 227095945,
+  "tags": {
+    "building": "yes",
+    "height": "17",
+    "name": "부속병원신관",
+    "name:en": "Hanyang University Medical Center New Building",
+    "name:ja": "附属 病院 新館",
+    "name:ko": "부속병원신관",
+    "name:zh": "漢陽大病院 新館"
+  }
+},
+{
+  "type": "way",
+  "id": 227095946,
+  "tags": {
+    "building": "school",
+    "name": "제1음악관",
+    "name:en": "College of Music East Building",
+    "name:ja": "第1音楽館",
+    "name:ko": "제1음악관",
+    "name:zh": "第1音樂館"
+  }
+},
+{
+  "type": "way",
+  "id": 227095948,
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "성동구",
+    "addr:housenumber": "188",
+    "addr:postcode": "04763",
+    "addr:street": "살곶이길",
+    "addr:subdistrict": "사근동",
+    "building": "yes",
+    "name": "제2학생생활관",
+    "name:en": "Student Residence Hall Ⅱ",
+    "name:ja": "第2 学生 生活館",
+    "name:ko": "제2학생생활관",
+    "name:zh": "第2學生生活館"
+  }
+},
+{
+  "type": "way",
+  "id": 227095949,
+  "tags": {
+    "building": "school",
+    "name": "제2음악관",
+    "name:ja": "第2音楽館",
+    "name:ko": "제2음악관"
+  }
+},
+{
+  "type": "way",
+  "id": 227097296,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 227097297,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 227097299,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 227097301,
+  "tags": {
+    "building": "yes",
+    "name": "개나리관",
+    "name:en": "Student Residence Hall II-A",
+    "name:ko": "개나리관",
+    "name:zh": "第2學生生活館 A棟"
+  }
+},
+{
+  "type": "way",
+  "id": 227120059,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 227120060,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 227120061,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 227120062,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 227120063,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 227120064,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 227120065,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 227120066,
+  "tags": {
+    "highway": "living_street"
+  }
+},
+{
+  "type": "way",
+  "id": 227120067,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 227120068,
+  "tags": {
+    "landuse": "forest"
+  }
+},
+{
+  "type": "way",
+  "id": 238163912,
+  "tags": {
+    "bicycle": "designated",
+    "foot": "designated",
+    "highway": "cycleway",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "청계천 자전거길",
+    "name:en": "Cheonggyecheon Bicycle Path",
+    "name:ja": "清渓川 自転車道路",
+    "name:ko": "청계천 자전거길",
+    "oneway": "no",
+    "segregated": "yes",
+    "surface": "asphalt",
+    "width": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 238163914,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 324230054,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 379944854,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동12길",
+    "name:en": "Sageundong 12-gil",
+    "name:ko": "사근동12길"
+  }
+},
+{
+  "type": "way",
+  "id": 379944861,
+  "tags": {
+    "highway": "residential",
+    "name": "마조로",
+    "name:en": "Majo-ro",
+    "name:ko": "마조로"
+  }
+},
+{
+  "type": "way",
+  "id": 379944863,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 379944874,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동길",
+    "name:en": "Sageundong-gil",
+    "name:ko": "사근동길"
+  }
+},
+{
+  "type": "way",
+  "id": 379944888,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 379944912,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동8가길",
+    "name:en": "Sageundong 8ga-gil",
+    "name:ko": "사근동8가길"
+  }
+},
+{
+  "type": "way",
+  "id": 379944920,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 379944924,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동10가길",
+    "name:en": "Sageundong 10ga-gil",
+    "name:ko": "사근동10가길"
+  }
+},
+{
+  "type": "way",
+  "id": 379944927,
+  "tags": {
+    "highway": "footway",
+    "name": "사근동8나길",
+    "name:en": "Sageundong 8na-gil",
+    "name:ko": "사근동8나길"
+  }
+},
+{
+  "type": "way",
+  "id": 379955928,
+  "tags": {
+    "highway": "residential",
+    "name": "살곶이8길",
+    "name:en": "Salgoji 8-gil",
+    "name:ko": "살곶이8길"
+  }
+},
+{
+  "type": "way",
+  "id": 379955941,
+  "tags": {
+    "highway": "residential",
+    "name": "살곶이8길",
+    "name:en": "Salgoji 8-gil",
+    "name:ko": "살곶이8길"
+  }
+},
+{
+  "type": "way",
+  "id": 379955951,
+  "tags": {
+    "highway": "residential",
+    "name": "살곶이8길",
+    "name:en": "Salgoji 8-gil",
+    "name:ko": "살곶이8길"
+  }
+},
+{
+  "type": "way",
+  "id": 379955952,
+  "tags": {
+    "highway": "residential",
+    "name": "살곶이8길",
+    "name:en": "Salgoji 8-gil",
+    "name:ko": "살곶이8길"
+  }
+},
+{
+  "type": "way",
+  "id": 379955957,
+  "tags": {
+    "highway": "residential",
+    "name": "살곶이8길",
+    "name:en": "Salgoji 8-gil",
+    "name:ko": "살곶이8길"
+  }
+},
+{
+  "type": "way",
+  "id": 379955958,
+  "tags": {
+    "highway": "residential",
+    "name": "살곶이4길",
+    "name:en": "Salgoji 4-gil",
+    "name:ko": "살곶이4길"
+  }
+},
+{
+  "type": "way",
+  "id": 379955960,
+  "tags": {
+    "highway": "residential",
+    "name": "살곶이6길",
+    "name:en": "Salgoji 6-gil",
+    "name:ko": "살곶이6길"
+  }
+},
+{
+  "type": "way",
+  "id": 389643124,
+  "tags": {
+    "access": "no",
+    "highway": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 389643515,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 389643516,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 392606134,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 392606138,
+  "tags": {
+    "highway": "secondary",
+    "name": "살곶이길",
+    "name:en": "Salgoji-gil",
+    "name:ko": "살곶이길",
+    "name:ko-Latn": "Salgoji-gil",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 392606139,
+  "tags": {
+    "highway": "secondary",
+    "name": "살곶이길",
+    "name:en": "Salgoji-gil",
+    "name:ko": "살곶이길",
+    "name:ko-Latn": "Salgoji-gil",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 392606140,
+  "tags": {
+    "highway": "primary",
+    "maxheight": "5.7",
+    "name": "왕십리로",
+    "name:en": "Wangsimni-ro",
+    "name:ja": "往十里路",
+    "name:ko": "왕십리로",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 392606141,
+  "tags": {
+    "highway": "secondary_link",
+    "name": "왕십리로",
+    "name:en": "Wangsimni-ro",
+    "name:ko": "왕십리로",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 399174159,
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "expressway": "yes",
+    "highway": "trunk",
+    "layer": "2",
+    "maxspeed": "80",
+    "maxweight": "10",
+    "motorroad": "yes",
+    "name": "내부순환로",
+    "name:en": "Naebusunhwan-ro",
+    "name:ja": "内部循環路",
+    "name:ko": "내부순환로",
+    "name:ko-Latn": "Naebusunhwanno",
+    "oneway": "yes",
+    "ref": "30",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 409483896,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 409483897,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동8길",
+    "name:en": "Sageundong 8-gil",
+    "name:ko": "사근동8길"
+  }
+},
+{
+  "type": "way",
+  "id": 409636907,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636908,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636909,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636911,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636912,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636913,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636915,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636916,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636918,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636919,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636920,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 409636921,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 409636922,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636923,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409636926,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409637855,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409637857,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409637858,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409637898,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 409637899,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 409637900,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409637901,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409637902,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409637903,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409637904,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409637940,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 409638088,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638089,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 409638114,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638115,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638195,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638196,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638197,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638198,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638199,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638200,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 409638201,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638202,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638203,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638204,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638441,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 409638442,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 410120271,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 410120272,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 410120335,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 410120336,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 410120413,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 410121038,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 410121039,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 410121439,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 419737995,
+  "tags": {
+    "highway": "residential",
+    "name": "왕십리로",
+    "name:en": "Wangsimni-ro",
+    "name:ko": "왕십리로"
+  }
+},
+{
+  "type": "way",
+  "id": 419737996,
+  "tags": {
+    "highway": "residential",
+    "name": "살곶이4길",
+    "name:en": "Salgoji 4-gil",
+    "name:ko": "살곶이4길"
+  }
+},
+{
+  "type": "way",
+  "id": 425073110,
+  "tags": {
+    "highway": "footway",
+    "highway_1": "elevator"
+  }
+},
+{
+  "type": "way",
+  "id": 425095898,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468779000,
+  "tags": {
+    "building": "house"
+  }
+},
+{
+  "type": "way",
+  "id": 468779001,
+  "tags": {
+    "building": "house"
+  }
+},
+{
+  "type": "way",
+  "id": 468779002,
+  "tags": {
+    "building": "house"
+  }
+},
+{
+  "type": "way",
+  "id": 468779003,
+  "tags": {
+    "building": "house"
+  }
+},
+{
+  "type": "way",
+  "id": 468779006,
+  "tags": {
+    "building": "house"
+  }
+},
+{
+  "type": "way",
+  "id": 468779007,
+  "tags": {
+    "building": "house"
+  }
+},
+{
+  "type": "way",
+  "id": 468779008,
+  "tags": {
+    "building": "house"
+  }
+},
+{
+  "type": "way",
+  "id": 468779731,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동8나길",
+    "name:en": "Sageundong 8na-gil",
+    "name:ko": "사근동8나길"
+  }
+},
+{
+  "type": "way",
+  "id": 468779732,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468779733,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468780030,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468780031,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468780032,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787188,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동10길",
+    "name:en": "Sageundong 10-gil",
+    "name:ko": "사근동10길"
+  }
+},
+{
+  "type": "way",
+  "id": 468787189,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787190,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787191,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787192,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787193,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787194,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787195,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787196,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787197,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787198,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787199,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787200,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787201,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787202,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787203,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787204,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787205,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787206,
+  "tags": {
+    "highway": "footway",
+    "name": "사근동8나길",
+    "name:en": "Sageundong 8na-gil",
+    "name:ko": "사근동8나길"
+  }
+},
+{
+  "type": "way",
+  "id": 468787207,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787208,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787209,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787210,
+  "tags": {
+    "highway": "footway",
+    "name": "사근동10가길",
+    "name:en": "Sageundong 10ga-gil",
+    "name:ko": "사근동10가길"
+  }
+},
+{
+  "type": "way",
+  "id": 468787211,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 468787212,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787213,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787214,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787215,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787216,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동12길",
+    "name:en": "Sageundong 12-gil",
+    "name:ko": "사근동12길"
+  }
+},
+{
+  "type": "way",
+  "id": 468787217,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787218,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787219,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787220,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787221,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787223,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동12길",
+    "name:en": "Sageundong 12-gil",
+    "name:ko": "사근동12길"
+  }
+},
+{
+  "type": "way",
+  "id": 468787225,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787227,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787228,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787229,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787230,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787231,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787232,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787234,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동12길",
+    "name:en": "Sageundong 12-gil",
+    "name:ko": "사근동12길"
+  }
+},
+{
+  "type": "way",
+  "id": 468787235,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787236,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787237,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787238,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787239,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787240,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787241,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787242,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787243,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787244,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787245,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787246,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787247,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787248,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787249,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787250,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787251,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787252,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787253,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787254,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787255,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787256,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787257,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787258,
+  "tags": {
+    "highway": "footway",
+    "name": "사근동10가길",
+    "name:en": "Sageundong 10ga-gil",
+    "name:ko": "사근동10가길"
+  }
+},
+{
+  "type": "way",
+  "id": 468787259,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787260,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787261,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787262,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787263,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787264,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787265,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787266,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787267,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787268,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787269,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787270,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787271,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787273,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787274,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787275,
+  "tags": {
+    "addr:housenumber": "11-31",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787277,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787279,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787280,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787281,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787282,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787283,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787284,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 468787285,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787286,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787287,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787288,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787289,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787290,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787291,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787292,
+  "tags": {
+    "highway": "steps",
+    "name": "사근동10가길",
+    "name:en": "Sageundong 10ga-gil",
+    "name:ko": "사근동10가길"
+  }
+},
+{
+  "type": "way",
+  "id": 468787293,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787294,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787298,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787299,
+  "tags": {
+    "addr:housenumber": "6-17",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787300,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468787301,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 468959527,
+  "tags": {
+    "bridge": "yes",
+    "highway": "corridor",
+    "indoor": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 470423959,
+  "tags": {
+    "bridge": "yes",
+    "bridge:name": "성동교",
+    "footway": "sidewalk",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 470423960,
+  "tags": {
+    "addr:unit": "202",
+    "building": "yes",
+    "name": "건축관",
+    "name:ko": "건축관"
+  }
+},
+{
+  "type": "way",
+  "id": 470423961,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 473267170,
+  "tags": {
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267171,
+  "tags": {
+    "leisure": "pitch"
+  }
+},
+{
+  "type": "way",
+  "id": 473267172,
+  "tags": {
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267173,
+  "tags": {
+    "addr:housenumber": "189",
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267175,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "189",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267176,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "baseball"
+  }
+},
+{
+  "type": "way",
+  "id": 473267177,
+  "tags": {
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267180,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "199",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267181,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "199",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267182,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "199",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267183,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "18",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이4길",
+    "addr:subdistrict": "행당동",
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267185,
+  "tags": {
+    "addr:housenumber": "189",
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267186,
+  "tags": {
+    "addr:housenumber": "189",
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267187,
+  "tags": {
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267188,
+  "tags": {
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267189,
+  "tags": {
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267190,
+  "tags": {
+    "building": "school"
+  }
+},
+{
+  "type": "way",
+  "id": 473267191,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 473267192,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 474568217,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 474568218,
+  "tags": {
+    "highway": "pedestrian",
+    "layer": "-1",
+    "tunnel": "building_passage"
+  }
+},
+{
+  "type": "way",
+  "id": 474568219,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 474568220,
+  "tags": {
+    "area": "yes",
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 474568221,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 474568222,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 480577379,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 480577380,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 480577381,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 480577382,
+  "tags": {
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 480577384,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 480577385,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 496057979,
+  "tags": {
+    "bridge": "yes",
+    "highway": "corridor",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 496057980,
+  "tags": {
+    "bridge": "yes",
+    "highway": "corridor"
+  }
+},
+{
+  "type": "way",
+  "id": 504508113,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 524826915,
+  "tags": {
+    "building": "university",
+    "building:levels:underground": "2",
+    "description": "제2공학관 좌측에 나오는 건물 공학관의 지형적 이점으로 공대생이 많은 한양대학교의 동아리들이 활용하는 동아리방으로 애용되어 왔으나 법제상 문제로 3년안에 철거될 예정이다. ",
+    "name": "까치골",
+    "underground": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 555586391,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 555586396,
+  "tags": {
+    "landuse": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 571141622,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 572259714,
+  "tags": {
+    "leisure": "park",
+    "name": "살곶이체육공원",
+    "name:en": "Salgoji Sport Park",
+    "name:ko": "살곶이체육공원"
+  }
+},
+{
+  "type": "way",
+  "id": 572261883,
+  "tags": {
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 605156372,
+  "tags": {
+    "addr:unit": "209",
+    "building": "university",
+    "building:levels": "2",
+    "name": "노천극장",
+    "name:en": "Amphitheater",
+    "name:ko": "노천극장"
+  }
+},
+{
+  "type": "way",
+  "id": 605156391,
+  "tags": {
+    "leisure": "garden"
+  }
+},
+{
+  "type": "way",
+  "id": 605156394,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 605156397,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 608168026,
+  "tags": {
+    "addr:unit": "210",
+    "building": "university",
+    "building:part": "no",
+    "name": "정몽구 미래자동차연구센터",
+    "name:en": "Chung Mong-Koo Automotive Research Center",
+    "name:ko": "정몽구 미래자동차연구센터"
+  }
+},
+{
+  "type": "way",
+  "id": 609129136,
+  "tags": {
+    "leisure": "pitch",
+    "operator": "강산건설"
+  }
+},
+{
+  "type": "way",
+  "id": 609129137,
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 609129138,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 630101694,
+  "tags": {
+    "bicycle": "designated",
+    "foot": "designated",
+    "highway": "cycleway",
+    "name": "중랑천 자전거길 출입로",
+    "oneway": "no",
+    "surface": "asphalt",
+    "width": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 630101695,
+  "tags": {
+    "bicycle": "yes",
+    "crossing": "marked",
+    "crossing:markings": "zebra",
+    "footway": "crossing",
+    "highway": "footway",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 674176181,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 674176305,
+  "tags": {
+    "leisure": "pitch",
+    "name": "살곶이체육공원 야구장",
+    "name:en": "Salgoi Sports Park Baseball Stadium",
+    "name:ko": "살곶이체육공원 야구장",
+    "sport": "baseball"
+  }
+},
+{
+  "type": "way",
+  "id": 674176309,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 674225646,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 684692285,
+  "tags": {
+    "highway": "steps"
+  }
+},
+{
+  "type": "way",
+  "id": 684692287,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 684692288,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 733437904,
+  "tags": {
+    "highway": "secondary",
+    "name": "살곶이길",
+    "name:en": "Salgoji-gil",
+    "name:ko": "살곶이길",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 779239872,
+  "tags": {
+    "highway": "footway",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 779239873,
+  "tags": {
+    "highway": "residential",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 779239874,
+  "tags": {
+    "highway": "residential",
+    "name": "사근동10길",
+    "name:en": "Sageundong 10-gil",
+    "name:ko": "사근동10길"
+  }
+},
+{
+  "type": "way",
+  "id": 815133988,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 815133989,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 815133990,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 815133991,
+  "tags": {
+    "bridge": "yes",
+    "highway": "footway",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 815134697,
+  "tags": {
+    "cutting": "yes",
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 815134698,
+  "tags": {
+    "highway": "service",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 817362841,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "footway",
+    "incline": "0%",
+    "surface": "concrete:lanes"
+  }
+},
+{
+  "type": "way",
+  "id": 841581351,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 841581352,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 841581353,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 841581354,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 841581355,
+  "tags": {
+    "highway": "pedestrian",
+    "name": "design_pre"
+  }
+},
+{
+  "type": "way",
+  "id": 865185856,
+  "tags": {
+    "access": "yes",
+    "amenity": "toilets",
+    "building": "yes",
+    "changing_table": "yes",
+    "toilets:disposal": "flush",
+    "unisex": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 896408388,
+  "tags": {
+    "footway": "sidewalk",
+    "highway": "footway",
+    "surface": "paving_stones"
+  }
+},
+{
+  "type": "way",
+  "id": 914798708,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 924019489,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "way",
+  "id": 924019490,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 924019491,
+  "tags": {
+    "leisure": "swimming_pool"
+  }
+},
+{
+  "type": "way",
+  "id": 924019492,
+  "tags": {
+    "leisure": "playground"
+  }
+},
+{
+  "type": "way",
+  "id": 924019493,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 924019494,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 924019495,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 924019496,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 924019497,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 924019502,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1015711324,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1015711325,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 1015711326,
+  "tags": {
+    "highway": "service",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1015711327,
+  "tags": {
+    "cutting": "yes",
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 1015711328,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1015711329,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1015711330,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1043772333,
+  "tags": {
+    "highway": "primary",
+    "name": "왕십리로",
+    "name:en": "Wangsimni-ro",
+    "name:ja": "往十里路",
+    "name:ko": "왕십리로",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1043772335,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1068544580,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "soccer"
+  }
+},
+{
+  "type": "way",
+  "id": 1068544581,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1068544582,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1068544583,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1068544584,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555351,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555352,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555353,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555354,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555355,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555356,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555357,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "tennis"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555358,
+  "tags": {
+    "building": "greenhouse"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555359,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555360,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555361,
+  "tags": {
+    "crossing": "marked",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1068555364,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1102479436,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 1102479437,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 1102479438,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 1102479439,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1102479442,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 1102479443,
+  "tags": {
+    "highway": "primary",
+    "name": "왕십리로",
+    "name:en": "Wangsimni-ro",
+    "name:ja": "往十里路",
+    "name:ko": "왕십리로",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1102479444,
+  "tags": {
+    "highway": "primary",
+    "name": "왕십리로",
+    "name:en": "Wangsimni-ro",
+    "name:ja": "往十里路",
+    "name:ko": "왕십리로",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1108108033,
+  "tags": {
+    "bicycle": "no",
+    "bridge": "viaduct",
+    "expressway": "yes",
+    "highway": "trunk",
+    "lanes": "3",
+    "layer": "2",
+    "maxspeed": "80",
+    "maxweight": "10",
+    "motorroad": "yes",
+    "name": "내부순환로",
+    "name:en": "Naebusunhwan-ro",
+    "name:ja": "内部循環路",
+    "name:ko": "내부순환로",
+    "name:ko-Latn": "Naebusunhwanno",
+    "oneway": "yes",
+    "ref": "30",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1224716120,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 1224716121,
+  "tags": {
+    "landuse": "construction"
+  }
+},
+{
+  "type": "way",
+  "id": 1258481415,
+  "tags": {
+    "building": "yes",
+    "height": "14"
+  }
+},
+{
+  "type": "way",
+  "id": 1258481416,
+  "tags": {
+    "building": "yes",
+    "height": "14"
+  }
+},
+{
+  "type": "way",
+  "id": 1258481417,
+  "tags": {
+    "building": "yes",
+    "height": "10.5"
+  }
+},
+{
+  "type": "way",
+  "id": 1258481418,
+  "tags": {
+    "building": "yes",
+    "height": "9.2"
+  }
+},
+{
+  "type": "way",
+  "id": 1258481419,
+  "tags": {
+    "building": "yes",
+    "height": "3.7"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623731,
+  "tags": {
+    "building": "yes",
+    "height": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623736,
+  "tags": {
+    "building": "yes",
+    "height": "14"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623737,
+  "tags": {
+    "building": "yes",
+    "height": "17"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623738,
+  "tags": {
+    "building": "yes",
+    "height": "8.4"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623739,
+  "tags": {
+    "building": "yes",
+    "height": "10.9"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623744,
+  "tags": {
+    "building": "yes",
+    "height": "9"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623789,
+  "tags": {
+    "building": "yes",
+    "height": "15"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623790,
+  "tags": {
+    "building": "yes",
+    "height": "60"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623791,
+  "tags": {
+    "building": "yes",
+    "height": "33"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623794,
+  "tags": {
+    "building": "yes",
+    "height": "17.5"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623795,
+  "tags": {
+    "building": "yes",
+    "height": "5.6"
+  }
+},
+{
+  "type": "way",
+  "id": 1258623796,
+  "tags": {
+    "building": "bridge",
+    "height": "10",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1258625016,
+  "tags": {
+    "building": "yes",
+    "height": "13"
+  }
+},
+{
+  "type": "way",
+  "id": 1258625017,
+  "tags": {
+    "building": "yes",
+    "height": "11"
+  }
+},
+{
+  "type": "way",
+  "id": 1258625019,
+  "tags": {
+    "building": "yes",
+    "height": "3.3",
+    "layer": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1258630694,
+  "tags": {
+    "building": "school",
+    "height": "19",
+    "name": "인문관",
+    "name:ja": "人文館",
+    "name:ko": "인문관"
+  }
+},
+{
+  "type": "way",
+  "id": 1287650717,
+  "tags": {
+    "highway": "secondary",
+    "name": "살곶이길",
+    "name:en": "Salgoji-gil",
+    "name:ko": "살곶이길",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1476927252,
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "성동구",
+    "addr:housenumber": "235",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "residential",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 1476927254,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "7",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "residential",
+    "building:levels": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 1476927255,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "231",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "retail",
+    "building:levels": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 1476927258,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "6",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "residential",
+    "building:levels": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 1476927259,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "211",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 1476927260,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "213",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes",
+    "building:levels": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 1476927261,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "213-1",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 1477358999,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "7-1",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477359000,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "227",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes",
+    "building:levels": "5"
+  }
+},
+{
+  "type": "way",
+  "id": 1477359001,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "11-10",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477359002,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "9",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477359003,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "225",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes",
+    "building:levels": "8"
+  }
+},
+{
+  "type": "way",
+  "id": 1477359004,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "7-2",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477359005,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "229",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363938,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "221-10",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363939,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "11",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363940,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "11-1",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363941,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "223-1",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363942,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363943,
+  "tags": {
+    "highway": "service"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363944,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "11-8",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363945,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "13",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363946,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "15",
+    "addr:postcode": "04764",
+    "addr:street": "살곶이8길",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477363947,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "223",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477815383,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1477815393,
+  "tags": {
+    "addr:housenumber": "15-1",
+    "addr:street": "왕십리로",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1478834121,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "217",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1478834122,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "219-1",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1478834123,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "221-5",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1478834124,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "219-2",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1478834125,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "217-1",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1478834126,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "217-1",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1478834127,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "221-5",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1478834128,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "219",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1479294487,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "215-2",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1479294488,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "215-1",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1479294489,
+  "tags": {
+    "addr:district": "성동구",
+    "addr:housenumber": "215",
+    "addr:postcode": "04764",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "행당동",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1486492195,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1486492196,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1486492197,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1486492198,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1486492199,
+  "tags": {
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575120,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575122,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575123,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575124,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575125,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "level": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575126,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575127,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575128,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575129,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575130,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575131,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575132,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575133,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575134,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575135,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575136,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575137,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575138,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575139,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575140,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575141,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575142,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575143,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575144,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575145,
+  "tags": {
+    "highway": "footway",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575146,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575147,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575148,
+  "tags": {
+    "highway": "pedestrian"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575149,
+  "tags": {
+    "highway": "path",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575150,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575151,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575152,
+  "tags": {
+    "highway": "path",
+    "layer": "3",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575153,
+  "tags": {
+    "highway": "path",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575154,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575155,
+  "tags": {
+    "highway": "path",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575156,
+  "tags": {
+    "highway": "path",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575157,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575158,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:markings": "yes",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575159,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:markings": "yes",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575160,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:markings": "yes",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575161,
+  "tags": {
+    "crossing": "uncontrolled",
+    "crossing:markings": "yes",
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575162,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575163,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575164,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575165,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575166,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575167,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575168,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575169,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575170,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575171,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575172,
+  "tags": {
+    "highway": "path",
+    "layer": "-2",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575173,
+  "tags": {
+    "highway": "corridor",
+    "indoor": "yes",
+    "layer": "-1",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575174,
+  "tags": {
+    "highway": "corridor",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575175,
+  "tags": {
+    "highway": "corridor",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575176,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575177,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575178,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575179,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575180,
+  "tags": {
+    "highway": "corridor",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575181,
+  "tags": {
+    "highway": "corridor",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575182,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575183,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575184,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575185,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575186,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575187,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575188,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575189,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575190,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575191,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575192,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575193,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575194,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575195,
+  "tags": {
+    "highway": "path",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575196,
+  "tags": {
+    "highway": "corridor",
+    "indoor": "yes",
+    "level": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575197,
+  "tags": {
+    "highway": "corridor",
+    "indoor": "yes",
+    "layer": "-1",
+    "level": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575198,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1487575272,
+  "tags": {
+    "highway": "path",
+    "layer": "-1"
+  }
+},
+{
+  "type": "way",
+  "id": 1488500853,
+  "tags": {
+    "highway": "path"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365593,
+  "tags": {
+    "leisure": "track",
+    "sport": "running"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365594,
+  "tags": {
+    "area": "yes",
+    "leisure": "track",
+    "sport": "running"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365595,
+  "tags": {
+    "leisure": "pitch",
+    "sport": "basketball"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365596,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365597,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365598,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365599,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365601,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365602,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365603,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365605,
+  "tags": {
+    "highway": "service",
+    "service": "parking_aisle"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365606,
+  "tags": {
+    "highway": "footway"
+  }
+},
+{
+  "type": "way",
+  "id": 1507365607,
+  "tags": {
+    "footway": "crossing",
+    "highway": "footway"
+  }
+}
+
+  ]
+}

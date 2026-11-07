@@ -1,0 +1,42 @@
+{
+ "no": "N14",
+ "name": "제2교육관",
+ "en": null,
+ "folder": "N14-제2교육관",
+ "sources": {
+  "official": {
+   "번호": "N14",
+   "이름": "제2교육관",
+   "기준": "건축물대장에만 있음"
+  },
+  "osm": null,
+  "ledger": {
+   "연결": "sure",
+   "대표대장": "제2교육관",
+   "지상층": 6,
+   "지하층": 0,
+   "높이m": 23.8,
+   "높이추정": false,
+   "구조": "철근콘크리트구조",
+   "지붕": "기타지붕",
+   "연면적합계": 9885,
+   "사용승인일": "1966-06-15",
+   "층별기록수": 7
+  },
+  "vworld_bldginfo": null,
+  "vworld_spbd": null,
+  "roadview": null,
+  "kakao_place": null,
+  "site": null,
+  "ngii": null,
+  "appearance": null,
+  "photos_cc": null
+ },
+ "best": {
+  "지상층": 6,
+  "지상층출처": "건축물대장",
+  "높이m": 23.8,
+  "준공": "1966-06-15",
+  "바닥면적m2": null
+ }
+}

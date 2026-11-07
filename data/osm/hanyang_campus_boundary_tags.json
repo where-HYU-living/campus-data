@@ -1,0 +1,44 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-07T04:39:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 187645257,
+  "bounds": {
+    "minlat": 37.5539564,
+    "minlon": 127.0413762,
+    "maxlat": 37.5599325,
+    "maxlon": 127.0510093
+  },
+  "tags": {
+    "addr:city": "서울특별시",
+    "addr:district": "성동구",
+    "addr:housenumber": "222",
+    "addr:postcode": "04763",
+    "addr:street": "왕십리로",
+    "addr:subdistrict": "사근동",
+    "amenity": "university",
+    "internet_access": "wlan",
+    "internet_access:ssid": "HYU-wlan",
+    "name": "한양대학교 서울캠퍼스",
+    "name:en": "Hanyang University Seoul Campus",
+    "name:ja": "漢陽大学校ソウルキャンパス",
+    "name:ko": "한양대학교 서울캠퍼스",
+    "name:zh": "汉阳大学首尔校区",
+    "operator": "학교법인 한양학원",
+    "short_name": "한양대",
+    "short_name:en": "HYU",
+    "short_name:ko": "한양대",
+    "website": "https://www.hanyang.ac.kr/",
+    "wikidata": "Q40006"
+  }
+}
+
+  ]
+}

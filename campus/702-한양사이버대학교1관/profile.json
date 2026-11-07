@@ -1,0 +1,35 @@
+{
+ "no": "702",
+ "name": "한양사이버대학교 1관",
+ "en": "Hanyang Cyber University Bldg 1",
+ "folder": "702-한양사이버대학교1관",
+ "sources": {
+  "official": {
+   "번호": "702",
+   "이름": "한양사이버대학교 1관",
+   "기준": "2026-08 공식 캠퍼스 지도"
+  },
+  "osm": null,
+  "ledger": null,
+  "vworld_bldginfo": null,
+  "vworld_spbd": null,
+  "roadview": null,
+  "kakao_place": null,
+  "site": null,
+  "ngii": null,
+  "appearance": {
+   "지붕": null,
+   "외벽": [],
+   "층수_눈대중": null,
+   "신뢰도": "낮음"
+  },
+  "photos_cc": null
+ },
+ "best": {
+  "지상층": null,
+  "지상층출처": null,
+  "높이m": null,
+  "준공": null,
+  "바닥면적m2": null
+ }
+}

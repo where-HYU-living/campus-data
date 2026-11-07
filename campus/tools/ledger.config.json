@@ -1,0 +1,24 @@
+{
+  "_설명": "건축물대장(표제부)을 법정동 단위로 받아 한양대 건물만 골라 각 폴더 ledger.json 에 저장. 법정동코드는 아직 확인 전(null) — API 키 받은 뒤 확인해서 채움.",
+  "endpoint": "https://apis.data.go.kr/1613000/BldRgstHubService/getBrTitleInfo",
+  "sigunguCd": "11200",
+  "dongs": [
+    {
+      "name": "행당동",
+      "bjdongCd": "10700"
+    },
+    {
+      "name": "사근동",
+      "bjdongCd": "10600"
+    }
+  ],
+  "match": {
+    "addressIncludes": [
+      "왕십리로 222",
+      "한양대"
+    ],
+    "bldNmIncludes": [
+      "한양"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-07T04:55:25Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1979137813,
+  "lat": 37.5557862,
+  "lon": 127.0432752,
+  "tags": {
+    "description": "4번출구",
+    "description:ja": "4番 出口",
+    "railway": "subway_entrance",
+    "ref": "4",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1979137840,
+  "lat": 37.5556416,
+  "lon": 127.0432940,
+  "tags": {
+    "description": "한양대역 4번 출구",
+    "description:en": "Hanyang Univ. Station gate 4",
+    "description:ja": "漢陽大駅 4番出口",
+    "railway": "subway_entrance",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 1979145964,
+  "lat": 37.5558418,
+  "lon": 127.0438928,
+  "tags": {
+    "description": "한양대역 2번 출구",
+    "description:en": "Hanyang Univ. Station gate 2",
+    "description:ja": "2番 出口",
+    "railway": "subway_entrance",
+    "ref": "2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1981058749,
+  "lat": 37.5568265,
+  "lon": 127.0432722,
+  "tags": {
+    "description": "한양대역 1번 출구",
+    "description:en": "Hanyang Univ. Station gate 1",
+    "description:ja": "1番 出口",
+    "entrance": "yes",
+    "railway": "subway_entrance",
+    "ref": "1",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3408545515,
+  "lat": 37.5546083,
+  "lon": 127.0437197,
+  "tags": {
+    "description": "한양대역 3번출구",
+    "description:en": "Hanyang Univ. Station gate 3",
+    "description:ja": "漢陽大駅 3番出口",
+    "railway": "subway_entrance",
+    "ref": "3",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3408545516,
+  "lat": 37.5559684,
+  "lon": 127.0439148,
+  "tags": {
+    "description": "한양대역 2번출구",
+    "description:en": "Hanyang Univ. Station gate 2",
+    "description:ja": "漢陽大駅 2番出口",
+    "railway": "subway_entrance",
+    "ref": "2",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4634055739,
+  "lat": 37.5561486,
+  "lon": 127.0443410,
+  "tags": {
+    "description": "사자상에서는 예로부터 돌사자의 이빨을 갈아 그 가루를 먹으면 시험에 붙는다는 속설이 있어 현재 사자이빨만 하얀 상태를 유지하고 있다.",
+    "historic": "monument",
+    "name": "사자상",
+    "name:ja": "獅子像"
+  }
+},
+{
+  "type": "node",
+  "id": 9809014480,
+  "lat": 37.5545387,
+  "lon": 127.0437775,
+  "tags": {
+    "access": "customers",
+    "amenity": "bicycle_rental",
+    "authentication:app": "true",
+    "bicycle_rental": "docking_station",
+    "brand": "서울자전거 따릉이",
+    "brand:en": "Seoul Bike",
+    "brand:ko": "서울자전거 따릉이",
+    "brand:website": "https://www.bikeseoul.com/",
+    "brand:wikidata": "Q28127084",
+    "capacity": "10",
+    "fee": "yes",
+    "name": "한양대역 3번 출구",
+    "name:ko": "한양대역 3번 출구",
+    "network": "서울자전거 따릉이",
+    "network:en": "Seoul Bike",
+    "network:ko": "서울자전거 따릉이",
+    "operator": "서울시설공단",
+    "operator:en": "Seoul Facilities Corporation",
+    "operator:ko": "서울시설공단",
+    "operator:type": "public",
+    "payment:app": "yes",
+    "ref": "3544"
+  }
+},
+{
+  "type": "node",
+  "id": 12372983527,
+  "lat": 37.5565796,
+  "lon": 127.0433579,
+  "tags": {
+    "access": "customers",
+    "amenity": "bicycle_rental",
+    "authentication:app": "true",
+    "bicycle_rental": "docking_station",
+    "brand": "서울자전거 따릉이",
+    "brand:en": "Seoul Bike",
+    "brand:ko": "서울자전거 따릉이",
+    "brand:website": "https://www.bikeseoul.com/",
+    "brand:wikidata": "Q28127084",
+    "capacity": "10",
+    "fee": "yes",
+    "name": "한양대역 1번출구",
+    "name:ko": "한양대역 1번출구",
+    "network": "서울자전거 따릉이",
+    "network:en": "Seoul Bike",
+    "network:ko": "서울자전거 따릉이",
+    "operator": "서울시설공단",
+    "operator:en": "Seoul Facilities Corporation",
+    "operator:ko": "서울시설공단",
+    "operator:type": "public",
+    "payment:app": "yes",
+    "ref": "3545"
+  }
+},
+{
+  "type": "node",
+  "id": 13451753361,
+  "lat": 37.5558567,
+  "lon": 127.0435783,
+  "tags": {
+    "amenity": "cafe",
+    "name": "메가MGC커피 3202nd 한양대역점"
+  }
+},
+{
+  "type": "node",
+  "id": 13805210175,
+  "lat": 37.5591024,
+  "lon": 127.0444848,
+  "tags": {
+    "addr:city": "성동구",
+    "addr:housenumber": "222",
+    "addr:province": "서울특별시",
+    "addr:street": "왕십리로",
+    "amenity": "theatre",
+    "name": "백남아트홀"
+  }
+},
+{
+  "type": "way",
+  "id": 175357619,
+  "center": {
+    "lat": 37.5532287,
+    "lon": 127.0464686
+  },
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "bridge:structure": "beam",
+    "description": "보물 제1738호 서울 살곶이 다리",
+    "highway": "footway",
+    "historic": "bridge",
+    "layer": "1",
+    "lit": "no",
+    "name": "살곶이다리(전곡교)",
+    "name:en": "Salgoji Bridge",
+    "name:ko": "살곶이다리(전곡교)",
+    "name:ko-Latn": "Salgotidari(jeongokgyo)",
+    "oneway": "no",
+    "surface": "stone",
+    "width": "5"
+  }
+},
+{
+  "type": "way",
+  "id": 187181257,
+  "center": {
+    "lat": 37.5566159,
+    "lon": 127.0459347
+  },
+  "tags": {
+    "addr:unit": "503",
+    "building": "yes",
+    "name": "사자가 군것질할 때",
+    "name:en": "Convenience Store at the Academic Information Center & Library",
+    "name:ko": "사자가 군것질할 때",
+    "name:zh": "學術情報館 便利店",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "way",
+  "id": 605156372,
+  "center": {
+    "lat": 37.5555196,
+    "lon": 127.0452537
+  },
+  "tags": {
+    "addr:unit": "209",
+    "building": "university",
+    "building:levels": "2",
+    "name": "노천극장",
+    "name:en": "Amphitheater",
+    "name:ko": "노천극장"
+  }
+}
+
+  ]
+}

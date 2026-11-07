@@ -1,0 +1,1693 @@
+[
+ {
+  "no": "L01",
+  "name": "사자상",
+  "en": "Lion Statue",
+  "osm_ids": [
+   4634055739
+  ],
+  "center": [
+   0,
+   0
+  ],
+  "kind": "landmark",
+  "folder": "L01-사자상"
+ },
+ {
+  "no": "L02",
+  "name": "한양대역 출구",
+  "en": "Hanyang Univ. Station Exits",
+  "osm_ids": [],
+  "center": null,
+  "kind": "landmark",
+  "folder": "L02-한양대역출구"
+ },
+ {
+  "no": "101",
+  "name": "역사관(구본관)",
+  "en": "History Museum",
+  "osm_ids": [
+   187185123
+  ],
+  "center": [
+   32.4,
+   12.8
+  ],
+  "height_osm": null,
+  "folder": "101-역사관",
+  "ledger": {
+   "floors": 4,
+   "height": 15.6,
+   "heightEstimated": true,
+   "conf": "sure",
+   "year": "1957"
+  }
+ },
+ {
+  "no": "102",
+  "name": "본관",
+  "en": "Administration Building",
+  "osm_ids": [
+   187185124
+  ],
+  "center": [
+   20.5,
+   -56
+  ],
+  "height_osm": null,
+  "folder": "102-본관",
+  "ledger": {
+   "floors": 6,
+   "height": 25.7,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2009"
+  }
+ },
+ {
+  "no": "104",
+  "name": "애지문(한양대역 2번 출구)",
+  "en": "Aejeemun(Hanyang Station Exit #2)",
+  "osm_ids": [
+   187436420
+  ],
+  "center": [
+   -41.8,
+   10.9
+  ],
+  "height_osm": null,
+  "folder": "104-애지문",
+  "ledger": {
+   "floors": 1,
+   "height": 14.02,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2002"
+  }
+ },
+ {
+  "no": "105",
+  "name": "학생복지관(한양플라자)",
+  "en": "Student Welfare Building(Hanyang Plaza)",
+  "osm_ids": [
+   187162486
+  ],
+  "center": [
+   -32.9,
+   -43
+  ],
+  "height_osm": null,
+  "folder": "105-학생복지관"
+ },
+ {
+  "no": "106",
+  "name": "우체국",
+  "en": "University Post Office",
+  "osm_ids": [
+   187378628
+  ],
+  "center": [
+   -40.3,
+   -84.3
+  ],
+  "height_osm": null,
+  "folder": "106-우체국"
+ },
+ {
+  "no": "107",
+  "name": "학생회관",
+  "en": "Student Union",
+  "osm_ids": [
+   187178762
+  ],
+  "center": [
+   -20.3,
+   -151.2
+  ],
+  "height_osm": null,
+  "folder": "107-학생회관"
+ },
+ {
+  "no": "108",
+  "name": "국제관",
+  "en": "International Building",
+  "osm_ids": [
+   187162277
+  ],
+  "center": [
+   -5.2,
+   106.3
+  ],
+  "height_osm": 25.2,
+  "folder": "108-국제관"
+ },
+ {
+  "no": "109",
+  "name": "박물관",
+  "en": "University Museum",
+  "osm_ids": [
+   187181233
+  ],
+  "center": [
+   27.6,
+   109.9
+  ],
+  "height_osm": null,
+  "folder": "109-박물관",
+  "ledger": {
+   "floors": 5,
+   "height": 19.5,
+   "heightEstimated": true,
+   "conf": "sure",
+   "year": "1957"
+  }
+ },
+ {
+  "no": "201",
+  "name": "재성토목관",
+  "en": "Jae Sung Civil Engineering Building",
+  "osm_ids": [
+   187181232
+  ],
+  "center": [
+   -14.1,
+   192.7
+  ],
+  "height_osm": 28.8,
+  "folder": "201-재성토목관",
+  "ledger": {
+   "floors": 7,
+   "height": 25.23,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2007"
+  }
+ },
+ {
+  "no": "202",
+  "name": "건축관",
+  "en": "Hanyang Architecture Center",
+  "osm_ids": [
+   470423960
+  ],
+  "center": [
+   7.9,
+   217.8
+  ],
+  "height_osm": null,
+  "folder": "202-건축관"
+ },
+ {
+  "no": "203",
+  "name": "과학기술관",
+  "en": "Engineering Science & Technology Building",
+  "osm_ids": [
+   187181263
+  ],
+  "center": [
+   35.3,
+   213.9
+  ],
+  "height_osm": null,
+  "folder": "203-과학기술관",
+  "ledger": {
+   "floors": 9,
+   "height": 32.5,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2000"
+  }
+ },
+ {
+  "no": "204",
+  "name": "신소재공학관",
+  "en": "Advanced Materials & Chemical Engineering Building",
+  "osm_ids": [
+   187181255
+  ],
+  "center": [
+   80.4,
+   184.6
+  ],
+  "height_osm": 25.2,
+  "folder": "204-신소재공학관"
+ },
+ {
+  "no": "206",
+  "name": "공업센터본관",
+  "en": "Engineering Center",
+  "osm_ids": [
+   187181242
+  ],
+  "center": [
+   160.8,
+   150.2
+  ],
+  "height_osm": 25.2,
+  "folder": "206-공업센터본관"
+ },
+ {
+  "no": "207",
+  "name": "공업센터별관",
+  "en": "Engineering Center Annex",
+  "osm_ids": [
+   187181252
+  ],
+  "center": [
+   198.3,
+   157.6
+  ],
+  "height_osm": null,
+  "folder": "207-공업센터별관"
+ },
+ {
+  "no": "208",
+  "name": "퓨전테크센터(FTC)",
+  "en": "Fusion Technology Center",
+  "osm_ids": [
+   187181258
+  ],
+  "center": [
+   256.1,
+   174.5
+  ],
+  "height_osm": null,
+  "folder": "208-퓨전테크센터",
+  "ledger": {
+   "floors": 12,
+   "height": 49.08,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2008"
+  }
+ },
+ {
+  "no": "209",
+  "name": "노천극장",
+  "en": "Amphitheater",
+  "osm_ids": [
+   605156372
+  ],
+  "center": [
+   81.5,
+   69.1
+  ],
+  "height_osm": 7.2,
+  "folder": "209-노천극장",
+  "ledger": {
+   "floors": 1,
+   "height": 9.9,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2003"
+  }
+ },
+ {
+  "no": "210",
+  "name": "정몽구미래자동차연구센터",
+  "en": "Chung Mong-Koo Automotive Research Center",
+  "osm_ids": [
+   608168026
+  ],
+  "center": [
+   91.2,
+   -6
+  ],
+  "height_osm": null,
+  "folder": "210-정몽구미래자동차연구센터",
+  "ledger": {
+   "floors": 5,
+   "height": 20.1,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2015"
+  }
+ },
+ {
+  "no": "211",
+  "name": "제2공학관",
+  "en": "Engineering Building II",
+  "osm_ids": [
+   187181264
+  ],
+  "center": [
+   165.1,
+   47.1
+  ],
+  "height_osm": 21.6,
+  "folder": "211-제2공학관",
+  "ledger": {
+   "floors": 7,
+   "height": 27.3,
+   "heightEstimated": true,
+   "conf": "sure",
+   "year": "1977"
+  }
+ },
+ {
+  "no": "212",
+  "name": "제1공학관",
+  "en": "Engineering Building I",
+  "osm_ids": [
+   187181237
+  ],
+  "center": [
+   110.5,
+   -40.3
+  ],
+  "height_osm": 18,
+  "folder": "212-제1공학관"
+ },
+ {
+  "no": "213",
+  "name": "구자겸기계관",
+  "en": "",
+  "osm_ids": [],
+  "center": [
+   339.6,
+   144.5
+  ],
+  "kind": "official-2026",
+  "folder": "213-구자겸기계관",
+  "ledger": {
+   "floors": 10,
+   "height": 47.93,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2026"
+  },
+  "located_by": "kakao (점만, 윤곽 없음)"
+ },
+ {
+  "no": "301",
+  "name": "대운동장",
+  "en": "Track and Field",
+  "osm_ids": [
+   609129136
+  ],
+  "center": [
+   289.6,
+   73.8
+  ],
+  "height_osm": null,
+  "folder": "301-대운동장",
+  "ledger": {
+   "floors": 1,
+   "height": 30.05,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2020"
+  },
+  "located_by": "kakao (inside)"
+ },
+ {
+  "no": "304",
+  "name": "산학기술관",
+  "en": "R & D Building",
+  "osm_ids": [
+   187181254
+  ],
+  "center": [
+   429.4,
+   63.8
+  ],
+  "height_osm": 25.2,
+  "folder": "304-산학기술관",
+  "ledger": {
+   "floors": 7,
+   "height": 22.9,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2000"
+  }
+ },
+ {
+  "no": "305",
+  "name": "IT/BT관",
+  "en": "Information Technology / Bio Technology",
+  "osm_ids": [
+   187181256
+  ],
+  "center": [
+   459.6,
+   29.9
+  ],
+  "height_osm": 43.2,
+  "folder": "305-IT·BT관",
+  "ledger": {
+   "floors": 12,
+   "height": 47.5,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2006"
+  }
+ },
+ {
+  "no": "306",
+  "name": "올림픽체육관",
+  "en": "Olympic Gymnasium",
+  "osm_ids": [
+   187181248
+  ],
+  "center": [
+   494.3,
+   -44.3
+  ],
+  "height_osm": null,
+  "folder": "306-올림픽체육관",
+  "ledger": {
+   "floors": 5,
+   "height": 40.45,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1993"
+  }
+ },
+ {
+  "no": "401",
+  "name": "생활과학대학",
+  "en": "College of Human Ecology",
+  "osm_ids": [
+   187181247
+  ],
+  "center": [
+   209.5,
+   -58.5
+  ],
+  "height_osm": null,
+  "folder": "401-생활과학대학"
+ },
+ {
+  "no": "402",
+  "name": "제1음악관",
+  "en": "Music Hall I",
+  "osm_ids": [
+   227095946
+  ],
+  "center": [
+   272.7,
+   -49.6
+  ],
+  "height_osm": null,
+  "folder": "402-제1음악관",
+  "ledger": {
+   "floors": 7,
+   "height": 27.3,
+   "heightEstimated": true,
+   "conf": "guess",
+   "year": "1966"
+  }
+ },
+ {
+  "no": "403",
+  "name": "제2음악관",
+  "en": "Music Hall II",
+  "osm_ids": [
+   227095949
+  ],
+  "center": [
+   255.7,
+   -61.5
+  ],
+  "height_osm": null,
+  "folder": "403-제2음악관"
+ },
+ {
+  "no": "405",
+  "name": "백남음악관",
+  "en": "Paiknam Music Hall",
+  "osm_ids": [
+   187181243
+  ],
+  "center": [
+   240.5,
+   -19.2
+  ],
+  "height_osm": null,
+  "folder": "405-백남음악관",
+  "ledger": {
+   "floors": 5,
+   "height": 21.45,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1986"
+  }
+ },
+ {
+  "no": "406",
+  "name": "학군단",
+  "en": "R.O.T.C. Headquarters",
+  "osm_ids": [
+   187181246
+  ],
+  "center": [
+   196.8,
+   -0.7
+  ],
+  "height_osm": null,
+  "folder": "406-학군단",
+  "ledger": {
+   "floors": 3,
+   "height": 11.7,
+   "heightEstimated": true,
+   "conf": "sure",
+   "year": "1977"
+  }
+ },
+ {
+  "no": "407",
+  "name": "제1법학관",
+  "en": "Law Building I",
+  "osm_ids": [
+   187181253
+  ],
+  "center": [
+   315.3,
+   -42.2
+  ],
+  "height_osm": null,
+  "folder": "407-제1법학관",
+  "ledger": {
+   "floors": 7,
+   "height": 24.78,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2000"
+  }
+ },
+ {
+  "no": "408",
+  "name": "제2법학관",
+  "en": "Law Building II",
+  "osm_ids": [
+   187181244
+  ],
+  "center": [
+   310.6,
+   -16.8
+  ],
+  "height_osm": null,
+  "folder": "408-제2법학관"
+ },
+ {
+  "no": "409",
+  "name": "제3법학관",
+  "en": "Law Building III",
+  "osm_ids": [
+   187181234
+  ],
+  "center": [
+   356.8,
+   -23.1
+  ],
+  "height_osm": null,
+  "folder": "409-제3법학관",
+  "ledger": {
+   "floors": 7,
+   "height": 27.9,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2007"
+  }
+ },
+ {
+  "no": "410",
+  "name": "경제금융대학·법학학술정보관",
+  "en": "College of Economics & Finance/Law Library",
+  "osm_ids": [
+   187181249
+  ],
+  "center": [
+   361.5,
+   -53.3
+  ],
+  "height_osm": null,
+  "folder": "410-경제금융대학·법학학술정보관"
+ },
+ {
+  "no": "501",
+  "name": "백남학술정보관",
+  "en": "Paiknam Academic Information Center & Library",
+  "osm_ids": [
+   187181261
+  ],
+  "center": [
+   117.1,
+   -134.5
+  ],
+  "height_osm": 18,
+  "folder": "501-백남학술정보관",
+  "ledger": {
+   "floors": 6,
+   "height": 27.8,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1998"
+  }
+ },
+ {
+  "no": "503",
+  "name": "사자가 군것질 할 때",
+  "en": "Convenience Store",
+  "osm_ids": [
+   187181257
+  ],
+  "center": [
+   141.1,
+   -52.5
+  ],
+  "height_osm": null,
+  "folder": "503-사자가군것질할때",
+  "ledger": {
+   "floors": 2,
+   "height": 3.62,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2001"
+  }
+ },
+ {
+  "no": "504",
+  "name": "사회과학관·공공정책대학원",
+  "en": "College of Social Sciences/Graduate School of Public Policy",
+  "osm_ids": [
+   187178757
+  ],
+  "center": [
+   15.9,
+   -121.4
+  ],
+  "height_osm": null,
+  "folder": "504-사회과학관·공공정책대학원",
+  "ledger": {
+   "floors": 10,
+   "height": 39,
+   "heightEstimated": true,
+   "conf": "sure",
+   "year": "1977"
+  }
+ },
+ {
+  "no": "505",
+  "name": "사범대학 본관",
+  "en": "College of Education",
+  "osm_ids": [
+   187178761
+  ],
+  "center": [
+   68.9,
+   -215.8
+  ],
+  "height_osm": 24,
+  "folder": "505-사범대학본관",
+  "ledger": {
+   "floors": 6,
+   "height": 23.4,
+   "heightEstimated": true,
+   "conf": "sure",
+   "year": "1971"
+  }
+ },
+ {
+  "no": "506",
+  "name": "사범대학 별관",
+  "en": "College of Education Annex",
+  "osm_ids": [
+   187178754
+  ],
+  "center": [
+   32,
+   -243.1
+  ],
+  "height_osm": 24,
+  "folder": "506-사범대학별관"
+ },
+ {
+  "no": "507",
+  "name": "자연과학대학",
+  "en": "College of Natural Sciences",
+  "osm_ids": [
+   187178756
+  ],
+  "center": [
+   -0.2,
+   -283.6
+  ],
+  "height_osm": 35,
+  "folder": "507-자연과학대학",
+  "ledger": {
+   "floors": 7,
+   "height": 27.69,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1993"
+  }
+ },
+ {
+  "no": "508",
+  "name": "인문관",
+  "en": "College of Humanities",
+  "osm_ids": [
+   1258630694
+  ],
+  "center": [
+   -68.1,
+   -255.4
+  ],
+  "height_osm": 19,
+  "folder": "508-인문관",
+  "ledger": {
+   "floors": 5,
+   "height": 19.5,
+   "heightEstimated": true,
+   "conf": "sure",
+   "year": "1971"
+  }
+ },
+ {
+  "no": "604",
+  "name": "제1의학관",
+  "en": "College of Medicine I",
+  "osm_ids": [
+   187178765
+  ],
+  "center": [
+   -171,
+   -234.3
+  ],
+  "height_osm": 22,
+  "folder": "604-제1의학관"
+ },
+ {
+  "no": "605",
+  "name": "제2의학관",
+  "en": "College of Medicine II",
+  "osm_ids": [
+   187178766
+  ],
+  "center": [
+   -194.1,
+   -312.1
+  ],
+  "height_osm": 16.3,
+  "folder": "605-제2의학관",
+  "ledger": {
+   "floors": 4,
+   "height": 15.6,
+   "heightEstimated": true,
+   "conf": "sure",
+   "year": "1966"
+  }
+ },
+ {
+  "no": "606",
+  "name": "의과대학본관",
+  "en": "College of Medicine",
+  "osm_ids": [
+   187178764
+  ],
+  "center": [
+   -138.3,
+   -301.3
+  ],
+  "height_osm": 22,
+  "folder": "606-의과대학본관",
+  "ledger": {
+   "floors": 6,
+   "height": 25.7,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1966"
+  }
+ },
+ {
+  "no": "607",
+  "name": "동문회관",
+  "en": "Alumni Association Building",
+  "osm_ids": [
+   187645692
+  ],
+  "center": [
+   -250.4,
+   -359.5
+  ],
+  "height_osm": 27,
+  "folder": "607-동문회관"
+ },
+ {
+  "no": "609",
+  "name": "병원서관(국제병원,종합검진센터,장례식장)",
+  "en": "HUMC West Wing",
+  "osm_ids": [
+   187184435
+  ],
+  "center": [
+   -84.2,
+   -375.3
+  ],
+  "height_osm": 28,
+  "folder": "609-병원서관",
+  "ledger": {
+   "floors": 7,
+   "height": 27.94,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2001"
+  }
+ },
+ {
+  "no": "610",
+  "name": "병원본관",
+  "en": "Hanyang University Medical Center",
+  "osm_ids": [
+   227095945
+  ],
+  "center": [
+   -10.9,
+   -438.5
+  ],
+  "height_osm": 17,
+  "folder": "610-병원본관",
+  "ledger": {
+   "floors": 18,
+   "height": 69.3,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1972"
+  }
+ },
+ {
+  "no": "611",
+  "name": "권역응급의료센터",
+  "en": "Regional Emergency Medical Center",
+  "osm_ids": [
+   1258623794
+  ],
+  "center": [
+   6.4,
+   -380.3
+  ],
+  "height_osm": null,
+  "folder": "611-권역응급의료센터",
+  "ledger": {
+   "floors": 6,
+   "height": 23.05,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2016"
+  },
+  "located_by": "kakao (near 1m)"
+ },
+ {
+  "no": "614",
+  "name": "병원동관(류마티스병원)·신한플라자",
+  "en": "HUMC East Wing",
+  "osm_ids": [
+   187182895
+  ],
+  "center": [
+   41.2,
+   -435
+  ],
+  "height_osm": 10,
+  "folder": "614-병원동관"
+ },
+ {
+  "no": "617",
+  "name": "간호미래교육관",
+  "en": "",
+  "osm_ids": [
+   1068555351
+  ],
+  "center": [
+   168.1,
+   -268.3
+  ],
+  "kind": "official-2026",
+  "folder": "617-간호미래교육관",
+  "ledger": {
+   "floors": 6,
+   "height": 26.5,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2020"
+  },
+  "located_by": "kakao (inside)"
+ },
+ {
+  "no": "618",
+  "name": "의대 계단강의동",
+  "en": "College of Medicine Lecture Hall",
+  "osm_ids": [
+   187182896
+  ],
+  "center": [
+   138.8,
+   -355.7
+  ],
+  "height_osm": null,
+  "folder": "618-의대계단강의동",
+  "ledger": {
+   "floors": 4,
+   "height": 15.6,
+   "heightEstimated": true,
+   "conf": "guess",
+   "year": "1972"
+  }
+ },
+ {
+  "no": "619",
+  "name": "의생명융합연구센터",
+  "en": "",
+  "osm_ids": [
+   1068555358
+  ],
+  "center": [
+   151.1,
+   -399.4
+  ],
+  "kind": "official-2026",
+  "folder": "619-의생명융합연구센터",
+  "ledger": {
+   "floors": 5,
+   "height": 29,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2026"
+  },
+  "located_by": "kakao (inside)"
+ },
+ {
+  "no": "701",
+  "name": "한양종합기술연구원(HIT)·코맥스 스타트업타운",
+  "en": "Hanyang Institute of Technology",
+  "osm_ids": [
+   187178767
+  ],
+  "center": [
+   218.3,
+   -179.3
+  ],
+  "height_osm": 21.6,
+  "folder": "701-한양종합기술연구원",
+  "ledger": {
+   "floors": 6,
+   "height": 27.6,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2001"
+  }
+ },
+ {
+  "no": "702",
+  "name": "한양사이버대학교 1관",
+  "en": "Hanyang Cyber University Bldg 1",
+  "osm_ids": [],
+  "center": null,
+  "kind": "official-2026",
+  "folder": "702-한양사이버대학교1관"
+ },
+ {
+  "no": "703",
+  "name": "한양사이버대학교 2관",
+  "en": "",
+  "osm_ids": [],
+  "center": null,
+  "kind": "official-2026",
+  "folder": "703-한양사이버대학교2관",
+  "ledger": {
+   "floors": 7,
+   "height": 27.89,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2009"
+  }
+ },
+ {
+  "no": "705",
+  "name": "융합교육관",
+  "en": "Multidisciplinary Lecture Hall",
+  "osm_ids": [
+   1068555352
+  ],
+  "center": [
+   280.4,
+   -210.5
+  ],
+  "height_osm": null,
+  "folder": "705-융합교육관",
+  "located_by": "kakao (inside)"
+ },
+ {
+  "no": "706",
+  "name": "경영관",
+  "en": "Business Administration Building",
+  "osm_ids": [
+   187181236
+  ],
+  "center": [
+   340.7,
+   -220.8
+  ],
+  "height_osm": null,
+  "folder": "706-경영관",
+  "ledger": {
+   "floors": 8,
+   "height": 33.18,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2007"
+  }
+ },
+ {
+  "no": "707",
+  "name": "행원파크",
+  "en": "Haengwon Park",
+  "osm_ids": [],
+  "center": [
+   368.9,
+   -163.6
+  ],
+  "kind": "official-2026",
+  "folder": "707-행원파크",
+  "located_by": "kakao (점만, 윤곽 없음)"
+ },
+ {
+  "no": "801",
+  "name": "제1학생생활관",
+  "en": "Student Residence Hall I",
+  "osm_ids": [
+   187397391,
+   187397393
+  ],
+  "center": [
+   256.5,
+   -294.6
+  ],
+  "height_osm": null,
+  "folder": "801-제1학생생활관"
+ },
+ {
+  "no": "802",
+  "name": "제3학생생활관",
+  "en": "Student Residence Hall III",
+  "osm_ids": [
+   187397390
+  ],
+  "center": [
+   214.5,
+   -372.6
+  ],
+  "height_osm": null,
+  "folder": "802-제3학생생활관",
+  "ledger": {
+   "floors": 5,
+   "height": 18,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2000"
+  }
+ },
+ {
+  "no": "803",
+  "name": "제5학생생활관",
+  "en": "Student Residence Hall V",
+  "osm_ids": [
+   1068555359
+  ],
+  "center": [
+   118.8,
+   -377.7
+  ],
+  "height_osm": null,
+  "folder": "803-제5학생생활관",
+  "ledger": {
+   "floors": 12,
+   "height": 42.43,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2017"
+  },
+  "located_by": "kakao (inside)"
+ },
+ {
+  "no": "804",
+  "name": "제2학생생활관·한양테크노숙사",
+  "en": "Student Residence Hall II / Hanyang Techno Residence Hall",
+  "osm_ids": [
+   227095948
+  ],
+  "center": [
+   483.4,
+   -395.3
+  ],
+  "height_osm": null,
+  "folder": "804-제2학생생활관·한양테크노숙사",
+  "ledger": {
+   "floors": 10,
+   "height": 34.7,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1998"
+  }
+ },
+ {
+  "no": "805",
+  "name": "개나리관",
+  "en": "Gaenari Residence Hall",
+  "osm_ids": [
+   227097301
+  ],
+  "center": [
+   475.6,
+   -428.5
+  ],
+  "height_osm": null,
+  "folder": "805-개나리관"
+ },
+ {
+  "no": "806",
+  "name": "한누리관",
+  "en": "Hannuri Residence Hall",
+  "osm_ids": [],
+  "center": [
+   455.7,
+   -385.5
+  ],
+  "height_osm": null,
+  "folder": "806-한누리관",
+  "located_by": "kakao (점만) — 가까운 윤곽이 제2학생생활관(804)과 같음 — 점만 사용"
+ },
+ {
+  "no": "807",
+  "name": "게스트하우스",
+  "en": "Hanyang International House III",
+  "osm_ids": [
+   425094514
+  ],
+  "center": [
+   394.1,
+   -517
+  ],
+  "height_osm": null,
+  "folder": "807-게스트하우스",
+  "located_by": "kakao (inside)"
+ },
+ {
+  "no": "809",
+  "name": "제6학생생활관",
+  "en": "",
+  "osm_ids": [],
+  "center": [
+   115.1,
+   -751.5
+  ],
+  "kind": "official-2026",
+  "folder": "809-제6학생생활관",
+  "ledger": {
+   "floors": 7,
+   "height": 26.72,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2024"
+  },
+  "located_by": "kakao (점만, 윤곽 없음)"
+ },
+ {
+  "no": "810",
+  "name": "제7학생생활관",
+  "en": "",
+  "osm_ids": [],
+  "center": [
+   101.1,
+   -649.1
+  ],
+  "kind": "official-2026",
+  "folder": "810-제7학생생활관",
+  "ledger": {
+   "floors": 7,
+   "height": 26.9,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2024"
+  },
+  "located_by": "kakao (점만, 윤곽 없음)"
+ },
+ {
+  "no": "901",
+  "name": "한양여자대학교 본관",
+  "en": "Hanyang Women's University Administration Building",
+  "osm_ids": [
+   187181241
+  ],
+  "center": [
+   434.8,
+   -305.8
+  ],
+  "height_osm": null,
+  "folder": "901-한양여자대학교본관",
+  "ledger": {
+   "floors": 7,
+   "height": 27.95,
+   "heightEstimated": false,
+   "conf": "guess",
+   "year": "2004"
+  }
+ },
+ {
+  "no": "902",
+  "name": "한양여자대학교 디자인관",
+  "en": "Hanyang Women's University Design Center",
+  "osm_ids": [
+   187181235
+  ],
+  "center": [
+   527.1,
+   -311.1
+  ],
+  "height_osm": null,
+  "folder": "902-한양여자대학교디자인관"
+ },
+ {
+  "no": "903",
+  "name": "한양여자대학교 도서관",
+  "en": "Hanyang Women's University Library",
+  "osm_ids": [
+   187181260
+  ],
+  "center": [
+   541.3,
+   -233.5
+  ],
+  "height_osm": null,
+  "folder": "903-한양여자대학교도서관",
+  "ledger": {
+   "floors": 7,
+   "height": 32.2,
+   "heightEstimated": false,
+   "conf": "guess",
+   "year": "1990"
+  }
+ },
+ {
+  "no": "904",
+  "name": "행원스퀘어",
+  "en": "Haengwon Square",
+  "osm_ids": [],
+  "center": [
+   471.6,
+   -269.9
+  ],
+  "height_osm": null,
+  "folder": "904-행원스퀘어",
+  "located_by": "kakao (점만, 윤곽 없음)"
+ },
+ {
+  "no": "905",
+  "name": "한양초등학교",
+  "en": "Hanyang Primary School",
+  "osm_ids": [],
+  "center": [
+   518.1,
+   -173.5
+  ],
+  "height_osm": null,
+  "folder": "905-한양초등학교",
+  "located_by": "kakao (점만, 윤곽 없음)",
+  "footprint": [
+   [
+    548.81,
+    -182.38
+   ],
+   [
+    549.03,
+    -181.66
+   ],
+   [
+    551.42,
+    -182.38
+   ],
+   [
+    552.18,
+    -182.61
+   ],
+   [
+    552.26,
+    -182.38
+   ],
+   [
+    553.54,
+    -178.46
+   ],
+   [
+    565.85,
+    -182.38
+   ],
+   [
+    570.64,
+    -183.9
+   ],
+   [
+    571.13,
+    -182.38
+   ],
+   [
+    577.46,
+    -162.93
+   ],
+   [
+    521.61,
+    -144.78
+   ],
+   [
+    520.04,
+    -149.45
+   ],
+   [
+    491.57,
+    -140.11
+   ],
+   [
+    492.88,
+    -135.99
+   ],
+   [
+    486.63,
+    -133.96
+   ],
+   [
+    473.97,
+    -171.99
+   ],
+   [
+    485.04,
+    -175.59
+   ],
+   [
+    486.48,
+    -171.17
+   ],
+   [
+    489.72,
+    -172.25
+   ],
+   [
+    489.57,
+    -172.86
+   ],
+   [
+    490.41,
+    -173.15
+   ],
+   [
+    490.65,
+    -172.52
+   ],
+   [
+    494.07,
+    -173.6
+   ],
+   [
+    493.86,
+    -174.3
+   ],
+   [
+    494.66,
+    -174.62
+   ],
+   [
+    494.87,
+    -173.92
+   ],
+   [
+    498.27,
+    -175.07
+   ],
+   [
+    498.14,
+    -175.67
+   ],
+   [
+    498.93,
+    -175.97
+   ],
+   [
+    499.24,
+    -175.34
+   ],
+   [
+    502.6,
+    -176.45
+   ],
+   [
+    502.45,
+    -177.14
+   ],
+   [
+    503.21,
+    -177.46
+   ],
+   [
+    503.43,
+    -176.72
+   ],
+   [
+    506.41,
+    -177.73
+   ],
+   [
+    506.23,
+    -178.46
+   ],
+   [
+    507.01,
+    -178.72
+   ],
+   [
+    507.28,
+    -178.08
+   ],
+   [
+    520.33,
+    -182.38
+   ],
+   [
+    520.56,
+    -182.46
+   ],
+   [
+    520.58,
+    -182.38
+   ],
+   [
+    524.65,
+    -169.09
+   ],
+   [
+    540.83,
+    -174.43
+   ],
+   [
+    541.04,
+    -174.62
+   ],
+   [
+    538.89,
+    -181.24
+   ],
+   [
+    542.39,
+    -182.38
+   ],
+   [
+    548.21,
+    -184.28
+   ],
+   [
+    548.81,
+    -182.38
+   ]
+  ],
+  "footprint_src": "vworld 도로명주소건물 (한양초등학교, 3층)"
+ },
+ {
+  "no": "906",
+  "name": "한양여자대학교 교수회관",
+  "en": "Hanyang Women's University Faculty Center",
+  "osm_ids": [
+   187181250
+  ],
+  "center": [
+   437.3,
+   -193.4
+  ],
+  "height_osm": null,
+  "folder": "906-한양여자대학교교수회관"
+ },
+ {
+  "no": "907",
+  "name": "한양여자대학교 정보문화관",
+  "en": "Hanyang Women's University Information & Culture Center",
+  "osm_ids": [
+   187181251
+  ],
+  "center": [
+   418.2,
+   -248.2
+  ],
+  "height_osm": null,
+  "folder": "907-한양여자대학교정보문화관"
+ },
+ {
+  "no": "908",
+  "name": "한양여자대학교 식품영양관",
+  "en": "Hanyang Women's University Food & Nutrition Center",
+  "osm_ids": [
+   187354412
+  ],
+  "center": [
+   380.7,
+   -316.2
+  ],
+  "height_osm": null,
+  "folder": "908-한양여자대학교식품영양관"
+ },
+ {
+  "no": "909",
+  "name": "한양여자대학교 유아교육관",
+  "en": "Hanyang Women's University Early Childhood Education Center",
+  "osm_ids": [
+   187354411
+  ],
+  "center": [
+   427.3,
+   -369.9
+  ],
+  "height_osm": null,
+  "folder": "909-한양여자대학교유아교육관",
+  "ledger": {
+   "floors": 3,
+   "height": 13.4,
+   "heightEstimated": false,
+   "conf": "guess",
+   "year": "1999"
+  }
+ },
+ {
+  "no": "N08",
+  "name": "토건관",
+  "en": "",
+  "osm_ids": [
+   187162278
+  ],
+  "center": [
+   -15.2,
+   147.9
+  ],
+  "kind": "not-in-official-map",
+  "folder": "N08-토건관",
+  "ledger": {
+   "floors": 7,
+   "height": 25.23,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2007"
+  }
+ },
+ {
+  "no": "N10",
+  "name": "사근동기숙사",
+  "en": "",
+  "osm_ids": [],
+  "center": null,
+  "kind": "not-in-official-map",
+  "folder": "N10-사근동기숙사",
+  "ledger": {
+   "floors": 6,
+   "height": 17.4,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2010"
+  }
+ },
+ {
+  "no": "N11",
+  "name": "연구지원센터",
+  "en": "",
+  "osm_ids": [],
+  "center": null,
+  "kind": "not-in-official-map",
+  "folder": "N11-연구지원센터",
+  "ledger": {
+   "floors": 7,
+   "height": 27.9,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "2000"
+  }
+ },
+ {
+  "no": "N12",
+  "name": "대학원",
+  "en": "",
+  "osm_ids": [],
+  "center": null,
+  "kind": "not-in-official-map",
+  "folder": "N12-대학원",
+  "ledger": {
+   "floors": 7,
+   "height": 28.81,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1966"
+  }
+ },
+ {
+  "no": "N13",
+  "name": "제1교육관(행정자치대학원)",
+  "en": "",
+  "osm_ids": [],
+  "center": null,
+  "kind": "not-in-official-map",
+  "folder": "N13-제1교육관",
+  "ledger": {
+   "floors": 7,
+   "height": 27.9,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1957"
+  }
+ },
+ {
+  "no": "N14",
+  "name": "제2교육관",
+  "en": "",
+  "osm_ids": [],
+  "center": null,
+  "kind": "not-in-official-map",
+  "folder": "N14-제2교육관",
+  "ledger": {
+   "floors": 6,
+   "height": 23.8,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1966"
+  }
+ },
+ {
+  "no": "N15",
+  "name": "사회대도서관",
+  "en": "",
+  "osm_ids": [],
+  "center": null,
+  "kind": "not-in-official-map",
+  "folder": "N15-사회대도서관",
+  "ledger": {
+   "floors": 7,
+   "height": 22.08,
+   "heightEstimated": false,
+   "conf": "sure",
+   "year": "1997"
+  }
+ }
+]

@@ -1,0 +1,55 @@
+{
+ "no": "904",
+ "name": "행원스퀘어",
+ "en": "Haengwon Square",
+ "folder": "904-행원스퀘어",
+ "sources": {
+  "official": {
+   "번호": "904",
+   "이름": "행원스퀘어",
+   "기준": "공식 목록(2017·2026)"
+  },
+  "osm": null,
+  "ledger": null,
+  "vworld_bldginfo": null,
+  "vworld_spbd": null,
+  "roadview": {
+   "사진": [
+    "roadview-1.jpg",
+    "roadview-2.jpg"
+   ]
+  },
+  "kakao_place": {
+   "연결기준": "이름 검색",
+   "이름": "한양여자대학교 행원스퀘어",
+   "주소": "서울 성동구 살곶이길 200",
+   "좌표": [
+    37.55859,
+    127.049685
+   ]
+  },
+  "site": {
+   "지형출처": "국토지리정보원 수치지도 등고선(5m)·표고점 → 2m 격자 (TIN 보간, 옹벽 단차는 별도 campus_ngii.json)",
+   "지면평균m": 18.8,
+   "사자상대비m": -15.9,
+   "경사차m": 1.2,
+   "출입구수": 0,
+   "주변계단수": 2
+  },
+  "ngii": null,
+  "appearance": {
+   "지붕": null,
+   "외벽": [],
+   "층수_눈대중": null,
+   "신뢰도": "낮음"
+  },
+  "photos_cc": null
+ },
+ "best": {
+  "지상층": null,
+  "지상층출처": null,
+  "높이m": null,
+  "준공": null,
+  "바닥면적m2": null
+ }
+}

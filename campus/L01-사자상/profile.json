@@ -1,0 +1,49 @@
+{
+ "no": "L01",
+ "name": "사자상",
+ "en": "Lion Statue",
+ "folder": "L01-사자상",
+ "sources": {
+  "official": {
+   "번호": "L01",
+   "이름": "사자상",
+   "기준": "공식 목록(2017·2026)"
+  },
+  "osm": null,
+  "ledger": null,
+  "vworld_bldginfo": null,
+  "vworld_spbd": null,
+  "roadview": {
+   "사진": [
+    "roadview-1.jpg",
+    "roadview-2.jpg"
+   ]
+  },
+  "kakao_place": null,
+  "site": {
+   "지형출처": "국토지리정보원 수치지도 등고선(5m)·표고점 → 2m 격자 (TIN 보간, 옹벽 단차는 별도 campus_ngii.json)",
+   "지면평균m": 34.8,
+   "사자상대비m": 0,
+   "경사차m": 0.3,
+   "출입구수": 0,
+   "주변계단수": 2
+  },
+  "ngii": null,
+  "appearance": {
+   "지붕": null,
+   "외벽": [],
+   "층수_눈대중": null,
+   "신뢰도": "높음"
+  },
+  "photos_cc": [
+   "commons-Hanyang_University_008.jpg"
+  ]
+ },
+ "best": {
+  "지상층": null,
+  "지상층출처": null,
+  "높이m": null,
+  "준공": null,
+  "바닥면적m2": null
+ }
+}
