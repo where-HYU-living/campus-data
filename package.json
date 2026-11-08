@@ -7,7 +7,9 @@
     "world": "node world/build-world.mjs",
     "site": "node campus/tools/build-site.mjs",
     "profiles": "node campus/tools/build-profiles.mjs",
-    "ngii": ".venv/bin/python campus/tools/ngii-to-json.py"
+    "ngii": ".venv/bin/python campus/tools/ngii-to-json.py",
+    "test": "node --test \"test/*.test.mjs\"",
+    "neighborhoods": "node world/build-neighborhood.mjs"
   },
   "dependencies": {
     "playwright-core": "^1.56.1",
