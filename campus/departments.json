@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-07",
+  "asOf": "2026-11-08",
   "campus": "서울",
   "colleges": [
     {
@@ -8,170 +8,248 @@
         {
           "name": "건축학부",
           "buildings": [
+            "202",
+            "203",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 202 건축관 사용대학, 203 과학기술관에 실습실·스튜디오·교수 연구실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "건축공학부",
           "buildings": [
+            "202",
+            "203",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 202 건축관 사용대학, 203 과학기술관에 실습실·스튜디오·교수 연구실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "건설환경공학과",
           "buildings": [
+            "201",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 201 재성토목관이 학과 전용 건물, 2학년부터 전공수업 전부 여기서. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "도시공학과",
           "buildings": [
+            "203",
+            "304",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 203 과학기술관 교수 연구실, 304 산학기술관 도시공학과 스튜디오. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "자원환경공학과",
           "buildings": [
+            "203",
+            "202",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 203 과학기술관 교수 연구실, 202 건축관 사용대학. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "융합전자공학부",
           "buildings": [
-            "206"
+            "206",
+            "305",
+            "208"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 206 연구실·실험실, 305 IT/BT관 연구실·실험실, 208 FTC 실험실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "전기·생체공학부",
           "buildings": [
-            "206"
+            "206",
+            "304",
+            "305"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 206 전기 연구실, 304 산학기술관 생체공학 연구실·실습실, 305 생체공학 전공수업. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "신소재공학부",
           "buildings": [
+            "204",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 204 신소재공학관 교수 연구실·실험실·과사무실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "화학공학과",
           "buildings": [
+            "204",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 204 신소재공학관 교수 연구실·실험실·과사무실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "생명공학과",
           "buildings": [
+            "305",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 305 IT/BT관 생명공학과 교수 연구실·실험실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "유기나노공학과",
           "buildings": [
+            "204",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 204 신소재공학관 교수 연구실·실험실·과사무실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "에너지공학과",
           "buildings": [
+            "208",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 208 FTC 에너지공학 실험실·연구실, 강의도 여기서. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "기계공학부",
           "buildings": [
-            "206"
+            "213",
+            "206",
+            "208"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 213 구자겸기계관(2026 준공) 기계공학부 전용, 206 연구실, 208 FTC 실험실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "원자력공학과",
           "buildings": [
+            "N08",
+            "108",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음). / 나무위키(2026-11-08): 108 국제관 사용대학, '원자력공학과(토건관)가 사용'. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "산업공학과",
@@ -183,48 +261,67 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음)."
+          "notes": "학과 행정팀(공과대학 행정팀) 사무실이 공업센터본관 412호. 실제 수업·연구실은 다른 건물일 수 있음(학과별 홈페이지로 개별 확인하지 않음).",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "컴퓨터소프트웨어학부",
           "buildings": [
-            "206"
+            "206",
+            "305"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "소프트웨어 행정팀이 공업센터본관 503호. 수업 건물은 별도 확인하지 않음."
+          "notes": "소프트웨어 행정팀이 공업센터본관 503호. 수업 건물은 별도 확인하지 않음. / 나무위키(2026-11-08): 206 사용대학, 305 IT/BT관 교수 연구실·실험실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "데이터사이언스학부",
           "buildings": [
+            "208",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "소프트웨어 행정팀이 공업센터본관 503호. 수업 건물은 별도 확인하지 않음."
+          "notes": "소프트웨어 행정팀이 공업센터본관 503호. 수업 건물은 별도 확인하지 않음. / 나무위키(2026-11-08): 208 FTC 사용대학. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "미래자동차공학과",
           "buildings": [
+            "210",
             "206"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "소프트웨어 행정팀이 공업센터본관 503호. 수업 건물은 별도 확인하지 않음."
+          "notes": "소프트웨어 행정팀이 공업센터본관 503호. 수업 건물은 별도 확인하지 않음. / 나무위키(2026-11-08): 210 정몽구미래자동차연구센터: 1층 전공 강의실, 2층 실습실, 4층 연구실. 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "정보시스템학과",
           "buildings": [
-            "305"
+            "305",
+            "206"
           ],
           "confidence": "confirmed",
           "sources": [
@@ -232,19 +329,27 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "305 IT/BT관 — 학과 재학생 확인(사용자 제공). 학과 사이트·학사안내 표의 행정 사무실은 공업센터본관 503호(206)로 안내됨."
+          "notes": "305 IT/BT관 — 학과 재학생 확인(사용자 제공). 학과 사이트·학사안내 표의 행정 사무실은 공업센터본관 503호(206)로 안내됨. / 맨 앞=주 활동 건물(305), 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         },
         {
           "name": "반도체공학과",
           "buildings": [
+            "701",
             "206"
           ],
           "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "행정팀 위치가 학사안내 표에 명시되지 않음(전화 02-2220-1081만 기재). 공과대학 행정팀 건물로 추정. SK하이닉스 채용조건형 계약학과(정원 외)."
+          "notes": "행정팀 위치가 학사안내 표에 명시되지 않음(전화 02-2220-1081만 기재). 공과대학 행정팀 건물로 추정. SK하이닉스 채용조건형 계약학과(정원 외). / 나무위키(2026-11-08): 701 HIT 사용대학(강의 건물은 아님, 산학 연구실). 맨 앞=주 활동 건물, 행정팀 건물(206)은 뒤에.",
+          "adminBuildings": [
+            "206"
+          ]
         }
       ]
     },
@@ -254,14 +359,19 @@
         {
           "name": "의예과",
           "buildings": [
-            "604"
+            "604",
+            "606"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "의과대학 행정팀 제1의학관 301호."
+          "notes": "의과대학 행정팀 제1의학관 301호. / 나무위키(2026-11-08): 604 제1의학관 열람실·실험실·연구실, 606 의과대학본관 의학도서관. 맨 앞=주 활동 건물, 행정팀 건물(604)은 뒤에.",
+          "adminBuildings": [
+            "604"
+          ]
         }
       ]
     },
@@ -278,7 +388,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "인문과학대학 행정팀 인문관 316호."
+          "notes": "인문과학대학 행정팀 인문관 316호.",
+          "adminBuildings": [
+            "508"
+          ]
         },
         {
           "name": "중어중문학과",
@@ -290,7 +403,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "인문과학대학 행정팀 인문관 316호."
+          "notes": "인문과학대학 행정팀 인문관 316호.",
+          "adminBuildings": [
+            "508"
+          ]
         },
         {
           "name": "영어영문학과",
@@ -302,7 +418,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "인문과학대학 행정팀 인문관 316호."
+          "notes": "인문과학대학 행정팀 인문관 316호.",
+          "adminBuildings": [
+            "508"
+          ]
         },
         {
           "name": "독어독문학과",
@@ -314,7 +433,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "인문과학대학 행정팀 인문관 316호."
+          "notes": "인문과학대학 행정팀 인문관 316호.",
+          "adminBuildings": [
+            "508"
+          ]
         },
         {
           "name": "사학과",
@@ -326,7 +448,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "인문과학대학 행정팀 인문관 316호."
+          "notes": "인문과학대학 행정팀 인문관 316호.",
+          "adminBuildings": [
+            "508"
+          ]
         },
         {
           "name": "철학과",
@@ -338,7 +463,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "인문과학대학 행정팀 인문관 316호."
+          "notes": "인문과학대학 행정팀 인문관 316호.",
+          "adminBuildings": [
+            "508"
+          ]
         }
       ]
     },
@@ -355,7 +483,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "사회과학대학 행정팀 사회과학관 310호."
+          "notes": "사회과학대학 행정팀 사회과학관 310호.",
+          "adminBuildings": [
+            "504"
+          ]
         },
         {
           "name": "사회학과",
@@ -367,7 +498,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "사회과학대학 행정팀 사회과학관 310호."
+          "notes": "사회과학대학 행정팀 사회과학관 310호.",
+          "adminBuildings": [
+            "504"
+          ]
         },
         {
           "name": "미디어커뮤니케이션학과",
@@ -379,7 +513,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "사회과학대학 행정팀 사회과학관 310호."
+          "notes": "사회과학대학 행정팀 사회과학관 310호.",
+          "adminBuildings": [
+            "504"
+          ]
         },
         {
           "name": "관광학부",
@@ -391,7 +528,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "사회과학대학 행정팀 사회과학관 310호."
+          "notes": "사회과학대학 행정팀 사회과학관 310호.",
+          "adminBuildings": [
+            "504"
+          ]
         }
       ]
     },
@@ -408,7 +548,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음)."
+          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음).",
+          "adminBuildings": [
+            "507"
+          ]
         },
         {
           "name": "물리학과",
@@ -420,7 +563,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음)."
+          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음).",
+          "adminBuildings": [
+            "507"
+          ]
         },
         {
           "name": "화학과",
@@ -432,7 +578,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음)."
+          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음).",
+          "adminBuildings": [
+            "507"
+          ]
         },
         {
           "name": "생명과학과",
@@ -444,7 +593,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음)."
+          "notes": "행정팀 위치가 '자연과학관'으로만 기재(호실 없음).",
+          "adminBuildings": [
+            "507"
+          ]
         }
       ]
     },
@@ -454,26 +606,36 @@
         {
           "name": "정책학과",
           "buildings": [
-            "705"
+            "705",
+            "409"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "정책과학대학 행정팀 융합교육관 409호."
+          "notes": "정책과학대학 행정팀 융합교육관 409호. / 나무위키(2026-11-08): 705 융합교육관 사용대학, 409 제3법학관 정책과학대학 대형강의. 맨 앞=주 활동 건물, 행정팀 건물(705)은 뒤에.",
+          "adminBuildings": [
+            "705"
+          ]
         },
         {
           "name": "행정학과",
           "buildings": [
-            "705"
+            "705",
+            "409"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "정책과학대학 행정팀 융합교육관 409호."
+          "notes": "정책과학대학 행정팀 융합교육관 409호. / 나무위키(2026-11-08): 705 융합교육관 사용대학, 409 제3법학관 정책과학대학 대형강의. 맨 앞=주 활동 건물, 행정팀 건물(705)은 뒤에.",
+          "adminBuildings": [
+            "705"
+          ]
         }
       ]
     },
@@ -490,7 +652,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "행정팀 '경제금융관 206호' = 410 경제금융대학·법학학술정보관으로 매핑."
+          "notes": "행정팀 '경제금융관 206호' = 410 경제금융대학·법학학술정보관으로 매핑.",
+          "adminBuildings": [
+            "410"
+          ]
         }
       ]
     },
@@ -507,7 +672,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "행정팀 위치 '경영관'(호실 없음)."
+          "notes": "행정팀 위치 '경영관'(호실 없음).",
+          "adminBuildings": [
+            "706"
+          ]
         },
         {
           "name": "파이낸스경영학과",
@@ -519,7 +687,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "행정팀 위치 '경영관'(호실 없음)."
+          "notes": "행정팀 위치 '경영관'(호실 없음).",
+          "adminBuildings": [
+            "706"
+          ]
         }
       ]
     },
@@ -529,74 +700,104 @@
         {
           "name": "교육학과",
           "buildings": [
-            "505"
+            "505",
+            "506"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함. / 나무위키(2026-11-08): 505 사범대학 본관 사용대학, 506 별관은 본관과 구름다리로 연결. 맨 앞=주 활동 건물, 행정팀 건물(505)은 뒤에.",
+          "adminBuildings": [
+            "505"
+          ]
         },
         {
           "name": "교육공학과",
           "buildings": [
-            "505"
+            "505",
+            "506"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함. / 나무위키(2026-11-08): 505 사범대학 본관 사용대학, 506 별관은 본관과 구름다리로 연결. 맨 앞=주 활동 건물, 행정팀 건물(505)은 뒤에.",
+          "adminBuildings": [
+            "505"
+          ]
         },
         {
           "name": "국어교육과",
           "buildings": [
-            "505"
+            "505",
+            "506"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함. / 나무위키(2026-11-08): 505 사범대학 본관 사용대학, 506 별관은 본관과 구름다리로 연결. 맨 앞=주 활동 건물, 행정팀 건물(505)은 뒤에.",
+          "adminBuildings": [
+            "505"
+          ]
         },
         {
           "name": "영어교육과",
           "buildings": [
-            "505"
+            "505",
+            "506"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함. / 나무위키(2026-11-08): 505 사범대학 본관 사용대학, 506 별관은 본관과 구름다리로 연결. 맨 앞=주 활동 건물, 행정팀 건물(505)은 뒤에.",
+          "adminBuildings": [
+            "505"
+          ]
         },
         {
           "name": "수학교육과",
           "buildings": [
-            "505"
+            "505",
+            "506"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함. / 나무위키(2026-11-08): 505 사범대학 본관 사용대학, 506 별관은 본관과 구름다리로 연결. 맨 앞=주 활동 건물, 행정팀 건물(505)은 뒤에.",
+          "adminBuildings": [
+            "505"
+          ]
         },
         {
           "name": "응용미술교육과",
           "buildings": [
-            "505"
+            "505",
+            "506"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함."
+          "notes": "행정팀 위치 '사범대학본관'(호실 없음). 별관(506) 수업 가능성은 확인 못함. / 나무위키(2026-11-08): 505 사범대학 본관 사용대학, 506 별관은 본관과 구름다리로 연결. 맨 앞=주 활동 건물, 행정팀 건물(505)은 뒤에.",
+          "adminBuildings": [
+            "505"
+          ]
         }
       ]
     },
@@ -613,7 +814,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "생활과학대학 행정팀 생활과학관 107호."
+          "notes": "생활과학대학 행정팀 생활과학관 107호.",
+          "adminBuildings": [
+            "401"
+          ]
         },
         {
           "name": "식품영양학과",
@@ -625,7 +829,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "생활과학대학 행정팀 생활과학관 107호."
+          "notes": "생활과학대학 행정팀 생활과학관 107호.",
+          "adminBuildings": [
+            "401"
+          ]
         },
         {
           "name": "실내건축디자인학과",
@@ -637,7 +844,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "생활과학대학 행정팀 생활과학관 107호."
+          "notes": "생활과학대학 행정팀 생활과학관 107호.",
+          "adminBuildings": [
+            "401"
+          ]
         }
       ]
     },
@@ -647,62 +857,92 @@
         {
           "name": "성악과",
           "buildings": [
-            "402"
+            "402",
+            "403",
+            "405"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함. / 나무위키(2026-11-08): 402·403·405 음악관 3곳 모두 사용대학 음악대학. 맨 앞=주 활동 건물, 행정팀 건물(402)은 뒤에.",
+          "adminBuildings": [
+            "402"
+          ]
         },
         {
           "name": "작곡과",
           "buildings": [
-            "402"
+            "402",
+            "403",
+            "405"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함. / 나무위키(2026-11-08): 402·403·405 음악관 3곳 모두 사용대학 음악대학. 맨 앞=주 활동 건물, 행정팀 건물(402)은 뒤에.",
+          "adminBuildings": [
+            "402"
+          ]
         },
         {
           "name": "피아노과",
           "buildings": [
-            "402"
+            "402",
+            "403",
+            "405"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함. / 나무위키(2026-11-08): 402·403·405 음악관 3곳 모두 사용대학 음악대학. 맨 앞=주 활동 건물, 행정팀 건물(402)은 뒤에.",
+          "adminBuildings": [
+            "402"
+          ]
         },
         {
           "name": "관현악과",
           "buildings": [
-            "402"
+            "402",
+            "403",
+            "405"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함. / 나무위키(2026-11-08): 402·403·405 음악관 3곳 모두 사용대학 음악대학. 맨 앞=주 활동 건물, 행정팀 건물(402)은 뒤에.",
+          "adminBuildings": [
+            "402"
+          ]
         },
         {
           "name": "국악과",
           "buildings": [
-            "402"
+            "402",
+            "403",
+            "405"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함."
+          "notes": "음악대학 행정팀 제1음악관 2층. 실기·연습은 403/405 등에서도 이뤄질 수 있으나 확인 못함. / 나무위키(2026-11-08): 402·403·405 음악관 3곳 모두 사용대학 음악대학. 맨 앞=주 활동 건물, 행정팀 건물(402)은 뒤에.",
+          "adminBuildings": [
+            "402"
+          ]
         }
       ]
     },
@@ -719,31 +959,44 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "예술체육대학 행정팀이 올림픽체육관(306)에 있음 (학사안내 표). 수업·연습 건물은 확인하지 않음."
+          "notes": "예술체육대학 행정팀이 올림픽체육관(306)에 있음 (학사안내 표). 수업·연습 건물은 확인하지 않음.",
+          "adminBuildings": [
+            "306"
+          ]
         },
         {
           "name": "연극영화학과",
           "buildings": [
+            "305",
             "306"
           ],
-          "confidence": "confirmed",
+          "confidence": "guess",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "예술체육대학 행정팀이 올림픽체육관(306)에 있음 (학사안내 표). 수업·연습 건물은 확인하지 않음."
+          "notes": "예술체육대학 행정팀이 올림픽체육관(306)에 있음 (학사안내 표). 수업·연습 건물은 확인하지 않음. / 나무위키(2026-11-08): 305 IT/BT관 지하1·1층 연극영화학과 사용(한양예술극장), 306 예술체육대학 행정팀. 맨 앞=주 활동 건물, 행정팀 건물(306)은 뒤에.",
+          "adminBuildings": [
+            "306"
+          ]
         },
         {
           "name": "무용학과",
           "buildings": [
-            "306"
+            "306",
+            "305"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "예술체육대학 행정팀이 올림픽체육관(306)에 있음 (학사안내 표). 수업·연습 건물은 확인하지 않음."
+          "notes": "예술체육대학 행정팀이 올림픽체육관(306)에 있음 (학사안내 표). 수업·연습 건물은 확인하지 않음. / 나무위키(2026-11-08): 306 올림픽체육관 예술체육대학, 305 IT/BT관 무용 연습실. 맨 앞=주 활동 건물, 행정팀 건물(306)은 뒤에.",
+          "adminBuildings": [
+            "306"
+          ]
         }
       ]
     },
@@ -760,7 +1013,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "국제대학 행정팀 국제관 553호. 학사안내 표에는 체육학과·스포츠산업학과로 기재되나 2027 모집요강 현행 명칭 스포츠산업과학부(스포츠매니지먼트/스포츠사이언스전공)를 사용."
+          "notes": "국제대학 행정팀 국제관 553호. 학사안내 표에는 체육학과·스포츠산업학과로 기재되나 2027 모집요강 현행 명칭 스포츠산업과학부(스포츠매니지먼트/스포츠사이언스전공)를 사용.",
+          "adminBuildings": [
+            "108"
+          ]
         }
       ]
     },
@@ -770,14 +1026,19 @@
         {
           "name": "간호학과",
           "buildings": [
-            "617"
+            "617",
+            "618"
           ],
           "confidence": "confirmed",
           "sources": [
             "https://academic.hanyang.ac.kr/-38",
-            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
+            "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf",
+            "https://namu.wiki/w/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%EC%8B%9C%EC%84%A4"
           ],
-          "notes": "행정팀 '미래교육관 205호'를 617 간호미래교육관으로 매핑(명칭이 약간 다름, 동일 건물로 판단). 야간 간호학과(야)는 별도 표기 생략."
+          "notes": "행정팀 '미래교육관 205호'를 617 간호미래교육관으로 매핑(명칭이 약간 다름, 동일 건물로 판단). 야간 간호학과(야)는 별도 표기 생략. / 나무위키(2026-11-08): 617 간호미래교육관 강의실·연구실, 618 의대계단강의동(신입생·4학년). 맨 앞=주 활동 건물, 행정팀 건물(617)은 뒤에.",
+          "adminBuildings": [
+            "617"
+          ]
         }
       ]
     },
@@ -794,7 +1055,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "행정팀 제2공학관 110호. 경영공학전공·정보공학전공. 정원 외 모집."
+          "notes": "행정팀 제2공학관 110호. 경영공학전공·정보공학전공. 정원 외 모집.",
+          "adminBuildings": [
+            "211"
+          ]
         }
       ]
     },
@@ -811,7 +1075,10 @@
             "https://academic.hanyang.ac.kr/-38",
             "https://cdn013.negagea.net/dgsmidc/omr/seoul/web/univ_info2026/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90/%ED%95%9C%EC%96%91%EB%8C%80%ED%95%99%EA%B5%90_2027%ED%95%99%EB%85%84%EB%8F%84_%EC%88%98%EC%8B%9C%EB%AA%A8%EC%A7%91%EC%9A%94%EA%B0%95.pdf"
           ],
-          "notes": "행정팀 '경제금융관 506호'를 410으로 매핑. 2학년부터 전공 선택."
+          "notes": "행정팀 '경제금융관 506호'를 410으로 매핑. 2학년부터 전공 선택.",
+          "adminBuildings": [
+            "410"
+          ]
         }
       ]
     }
@@ -826,6 +1093,6 @@
       "reason": "학사안내 표에 의예과와 함께 기재되나 모집단위는 의예과뿐. 별도 항목 생략."
     }
   ],
-  "locationBasis": "buildings 는 학과 행정팀(사무실) 건물 기준이다. 수업·연구실 건물과 다를 수 있다(특히 공과대학: 행정팀은 공업센터본관 206, 수업은 제1·2공학관 등에서도 이뤄진다).",
-  "sourceNote": "출처: 한양대 서울 학사안내 행정팀 안내표(academic.hanyang.ac.kr/-38), 2027학년도 수시모집요강(모집단위·학과명). hanyang.ac.kr 본 사이트는 403으로 읽지 못함."
+  "locationBasis": "buildings 맨 앞은 학생이 주로 쓰는 건물(전공수업·연구실·실습실), 뒤는 함께 쓰는 건물과 학과 행정팀 건물이다. adminBuildings 는 학사안내 표 기준 행정팀(사무실) 건물. confidence 는 맨 앞 건물의 확신도: confirmed=공식 자료(행정팀 위치 그대로), guess=나무위키 등 커뮤니티 자료로 바꿈.",
+  "sourceNote": "출처: 한양대 서울 학사안내 행정팀 안내표(academic.hanyang.ac.kr/-38), 2027학년도 수시모집요강(모집단위·학과명). hanyang.ac.kr 본 사이트는 403으로 읽지 못함. 주 활동 건물: 나무위키 「한양대학교/시설」 건물별 사용대학·층별 설명(2026-11-08 열람, CC BY-NC-SA 2.0 KR)."
 }
